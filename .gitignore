@@ -1,0 +1,84 @@
+# ---- R & RStudio ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+.Renviron
+.Rapp.history
+.Rcheck/
+
+# R package management
+renv/library/
+renv/staging/
+renv/*.lock.bak
+renv/.cache/
+renv/profiles/
+renv/python/
+
+# rsconnect deployments
+rsconnect/
+
+# Packrat (legacy)
+packrat/
+.packrat/
+
+# ---- VS Code ----
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.history/
+*.code-workspace
+
+# ---- OS/Editor cruft ----
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon?
+*.swp
+*.tmp
+
+# ---- Logs & temp ----
+logs/
+*.log
+*.out
+*.aux
+
+# ---- Data & artifacts (customize as needed) ----
+# Keep raw/source data out of git by default. Commit small sample data only.
+**/data/raw/
+**/data/interim/
+**/data/processed/
+**/data/cache/
+**/data/tmp/
+**/data/**/tmp/
+**/data/**/*.sqlite
+**/data/**/*.db
+**/data/**/*.rds
+**/data/**/*.csv.gz
+**/data/**/*.parquet
+**/data/**/*.feather
+
+# Generated reports/figures
+reports/**/figures/
+reports/**/*.html
+reports/**/*.pdf
+reports/**/*.docx
+reports/**/*.xlsx
+**/generated/
+**/output/
+**/outputs/
+**/artifacts/
+**/plots/
+**/figures/
+
+# Shiny related
+.Rs.*
+.shiny.*
+**/shinyapps.io/
+
+# Python/other envs (if used)
+.venv/
+venv/
+__pycache__/

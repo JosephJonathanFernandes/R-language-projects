@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  },
+  "[r]": {
+    "editor.defaultFormatter": "REditorSupport.r",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
+  "r.plot.useHttpgd": true,
+  "r.sessionWatcher": true,
+  "r.lsp.debug": false
+}

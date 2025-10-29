@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "R: Run current file",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${file}",
+      "workingDirectory": "${workspaceFolder}"
+    },
+    {
+      "name": "R: Run setup.R",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${workspaceFolder}/setup.R",
+      "workingDirectory": "${workspaceFolder}"
+    },
+    {
+      "name": "R: Create dataset",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${workspaceFolder}/scripts/create_dataset.R",
+      "workingDirectory": "${workspaceFolder}"
+    },
+    {
+      "name": "R: Data exploration",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${workspaceFolder}/scripts/data_exploration.R",
+      "workingDirectory": "${workspaceFolder}"
+    },
+    {
+      "name": "R: Generate visualizations",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${workspaceFolder}/visualizations/generate_visualizations.R",
+      "workingDirectory": "${workspaceFolder}"
+    },
+    {
+      "name": "R: Run dashboard",
+      "type": "R-Debugger",
+      "request": "launch",
+      "file": "${workspaceFolder}/dashboard/app.R",
+      "workingDirectory": "${workspaceFolder}"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+linters: linters_with_defaults(
+  line_length_linter(120L),
+  object_usage_linter = NULL
+)
+exclusions: list(
+  "**/renv/**",
+  "**/.venv/**",
+  "**/data/**",
+  "**/.github/**",
+  "**/.Rproj.user/**"
+)
