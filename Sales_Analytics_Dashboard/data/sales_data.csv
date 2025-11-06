@@ -1,0 +1,1001 @@
+"order_id","order_date","product_category","quantity","unit_price","region","customer_age_group","payment_method","shipping_method","sales_amount","profit"
+98,2023-01-01,"Home & Kitchen",4,500,"East","26-35","UPI","Express",2000,413.170603197068
+697,2023-01-01,"Home & Kitchen",5,50,"West","18-25","UPI","Express",250,49.4272248004563
+187,2023-01-02,"Clothing",7,500,"South","18-25","Credit Card","Overnight",3500,691.800370952114
+311,2023-01-02,"Home & Kitchen",10,50,"North","36-45","UPI","Express",500,173.031741776504
+846,2023-01-02,"Books",6,150,"West","26-35","UPI","Standard",900,313.670243499801
+976,2023-01-02,"Electronics",5,500,"West","18-25","PayPal","Overnight",2500,680.043486994691
+48,2023-01-03,"Electronics",3,100,"South","26-35","Credit Card","Overnight",300,79.4676118902862
+208,2023-01-03,"Home & Kitchen",4,500,"West","18-25","Credit Card","Express",2000,412.174970470369
+393,2023-01-03,"Home & Kitchen",6,500,"East","26-35","UPI","Standard",3000,742.112318426371
+449,2023-01-03,"Home & Kitchen",4,100,"East","55+","UPI","Standard",400,102.103378623724
+930,2023-01-03,"Home & Kitchen",4,300,"West","46-55","PayPal","Standard",1200,347.469491399825
+40,2023-01-04,"Clothing",9,200,"South","46-55","UPI","Express",1800,438.810017863288
+675,2023-01-04,"Clothing",6,200,"West","46-55","Credit Card","Standard",1200,350.850045606494
+22,2023-01-05,"Home & Kitchen",6,50,"East","18-25","UPI","Overnight",300,89.3573634233326
+54,2023-01-05,"Books",7,50,"South","36-45","Debit Card","Express",350,79.9331036838703
+128,2023-01-06,"Electronics",2,50,"North","26-35","PayPal","Express",100,30.2955841878429
+555,2023-01-07,"Electronics",8,100,"North","36-45","Credit Card","Overnight",800,121.160236410797
+522,2023-01-08,"Electronics",10,100,"South","36-45","Credit Card","Overnight",1000,317.181080719456
+575,2023-01-08,"Books",6,500,"South","55+","PayPal","Overnight",3000,767.486100783572
+886,2023-01-08,"Home & Kitchen",2,100,"North","26-35","UPI","Express",200,58.0400460958481
+612,2023-01-09,"Clothing",9,100,"East","46-55","Credit Card","Overnight",900,137.743558762595
+204,2023-01-10,"Home & Kitchen",1,200,"East","46-55","Debit Card","Express",200,49.0072066895664
+278,2023-01-10,"Clothing",9,100,"West","55+","UPI","Overnight",900,264.694872200489
+455,2023-01-10,"Sports",9,150,"East","46-55","UPI","Overnight",1350,388.686175793409
+504,2023-01-10,"Electronics",4,500,"West","46-55","Credit Card","Overnight",2000,576.82429375127
+705,2023-01-10,"Home & Kitchen",10,200,"North","55+","Debit Card","Standard",2000,365.487055107951
+557,2023-01-11,"Books",8,150,"North","46-55","Debit Card","Standard",1200,312.279943451285
+812,2023-01-11,"Electronics",7,50,"East","46-55","UPI","Express",350,57.2140005370602
+195,2023-01-12,"Books",4,50,"East","18-25","Credit Card","Overnight",200,65.903158923611
+764,2023-01-12,"Clothing",7,100,"South","36-45","Credit Card","Overnight",700,107.001979616471
+633,2023-01-13,"Clothing",9,500,"East","26-35","UPI","Express",4500,1141.44683105405
+114,2023-01-14,"Clothing",9,300,"North","26-35","UPI","Standard",2700,812.414243342355
+147,2023-01-14,"Clothing",3,150,"West","55+","PayPal","Overnight",450,128.120286636986
+161,2023-01-14,"Electronics",2,300,"West","55+","Debit Card","Express",600,154.846123438329
+795,2023-01-14,"Books",4,300,"West","18-25","Credit Card","Overnight",1200,221.820616275072
+937,2023-01-14,"Home & Kitchen",10,200,"East","36-45","UPI","Overnight",2000,677.145024482161
+420,2023-01-15,"Sports",5,100,"East","18-25","Credit Card","Overnight",500,120.444075250998
+65,2023-01-16,"Electronics",7,50,"West","18-25","Debit Card","Express",350,115.541570808273
+447,2023-01-16,"Books",9,200,"West","26-35","UPI","Express",1800,361.33804846555
+957,2023-01-16,"Home & Kitchen",8,150,"South","26-35","PayPal","Overnight",1200,366.466077100486
+970,2023-01-16,"Home & Kitchen",1,150,"West","18-25","UPI","Express",150,46.9132601469755
+335,2023-01-17,"Books",10,300,"West","36-45","PayPal","Overnight",3000,981.448261952028
+721,2023-01-17,"Electronics",4,50,"South","36-45","Credit Card","Express",200,51.7137084901333
+825,2023-01-17,"Home & Kitchen",1,50,"South","36-45","Debit Card","Express",50,9.36350830364972
+529,2023-01-18,"Sports",7,300,"South","18-25","UPI","Overnight",2100,712.673648949713
+589,2023-01-18,"Clothing",4,100,"South","36-45","PayPal","Express",400,123.251535892487
+661,2023-01-18,"Home & Kitchen",2,200,"West","55+","Credit Card","Overnight",400,132.456943877041
+615,2023-01-19,"Home & Kitchen",4,200,"East","36-45","PayPal","Overnight",800,126.439387463033
+894,2023-01-19,"Home & Kitchen",6,150,"South","36-45","Debit Card","Standard",900,259.238979192451
+17,2023-01-20,"Home & Kitchen",7,50,"East","18-25","UPI","Express",350,117.450152698439
+332,2023-01-20,"Books",4,50,"South","26-35","Debit Card","Express",200,40.2042834088206
+535,2023-01-20,"Electronics",3,300,"South","46-55","Debit Card","Overnight",900,249.94494298473
+722,2023-01-20,"Electronics",2,100,"West","46-55","Credit Card","Overnight",200,40.8078282885253
+616,2023-01-21,"Home & Kitchen",9,200,"South","18-25","PayPal","Standard",1800,498.065411187708
+373,2023-01-22,"Electronics",7,150,"East","18-25","UPI","Express",1050,194.84850696288
+856,2023-01-22,"Books",6,100,"West","26-35","PayPal","Overnight",600,169.231430198997
+423,2023-01-23,"Sports",3,100,"South","36-45","PayPal","Express",300,53.7703544832766
+11,2023-01-24,"Electronics",9,150,"South","26-35","PayPal","Overnight",1350,338.099569771439
+29,2023-01-24,"Books",10,100,"East","26-35","Debit Card","Express",1000,173.163481242955
+444,2023-01-24,"Books",4,500,"South","26-35","Credit Card","Overnight",2000,525.912252999842
+733,2023-01-24,"Home & Kitchen",5,300,"East","46-55","Debit Card","Overnight",1500,238.079136796296
+109,2023-01-25,"Home & Kitchen",6,200,"South","55+","Credit Card","Overnight",1200,399.41854627803
+143,2023-01-25,"Clothing",10,200,"North","46-55","PayPal","Standard",2000,482.105300482362
+732,2023-01-25,"Clothing",7,50,"North","18-25","PayPal","Overnight",350,67.8237717808224
+746,2023-01-25,"Electronics",1,300,"East","46-55","Credit Card","Overnight",300,91.2359327450394
+474,2023-01-26,"Sports",10,50,"West","36-45","UPI","Standard",500,90.8313925843686
+171,2023-01-27,"Clothing",1,100,"West","26-35","Debit Card","Express",100,22.5920426100492
+248,2023-01-27,"Home & Kitchen",2,200,"North","18-25","PayPal","Overnight",400,114.006699305028
+390,2023-01-27,"Books",7,200,"East","18-25","Credit Card","Overnight",1400,327.379625979811
+415,2023-01-27,"Electronics",5,150,"West","46-55","Credit Card","Express",750,231.349603703711
+640,2023-01-27,"Sports",10,500,"North","36-45","Credit Card","Standard",5000,943.415654124692
+863,2023-01-27,"Sports",2,500,"West","36-45","UPI","Express",1000,154.146613460034
+186,2023-01-28,"Home & Kitchen",3,200,"North","26-35","Debit Card","Overnight",600,183.726240014657
+312,2023-01-28,"Books",7,100,"East","26-35","Debit Card","Express",700,216.615567379631
+648,2023-01-28,"Sports",4,50,"South","46-55","PayPal","Overnight",200,48.5614945646375
+172,2023-01-30,"Sports",7,300,"East","26-35","PayPal","Overnight",2100,641.519504869357
+268,2023-01-30,"Sports",5,100,"East","36-45","Debit Card","Standard",500,109.562210924923
+309,2023-01-30,"Clothing",8,100,"West","26-35","Credit Card","Express",800,279.43510606885
+357,2023-01-30,"Sports",1,200,"East","36-45","Credit Card","Express",200,54.9196159746498
+593,2023-01-30,"Books",9,50,"East","55+","Credit Card","Standard",450,103.424542369321
+668,2023-01-30,"Home & Kitchen",2,300,"North","26-35","PayPal","Express",600,208.147256942466
+533,2023-01-31,"Home & Kitchen",1,500,"North","26-35","Credit Card","Express",500,149.058104306459
+111,2023-02-01,"Electronics",10,50,"East","46-55","UPI","Overnight",500,106.587762618437
+152,2023-02-01,"Sports",3,200,"East","46-55","Credit Card","Standard",600,156.227804068476
+551,2023-02-01,"Electronics",4,500,"West","26-35","UPI","Standard",2000,587.361097149551
+55,2023-02-02,"Home & Kitchen",10,300,"East","26-35","Credit Card","Overnight",3000,574.981548031792
+484,2023-02-02,"Books",8,50,"South","26-35","Debit Card","Overnight",400,66.7966612055898
+785,2023-02-02,"Sports",10,300,"East","18-25","UPI","Standard",3000,671.59663005732
+827,2023-02-02,"Electronics",3,300,"West","55+","PayPal","Express",900,305.36384279374
+132,2023-02-03,"Sports",7,100,"East","18-25","Debit Card","Standard",700,216.317990762182
+657,2023-02-03,"Home & Kitchen",1,50,"West","46-55","PayPal","Express",50,7.75518153561279
+694,2023-02-03,"Clothing",7,500,"West","55+","UPI","Overnight",3500,815.164036094211
+63,2023-02-04,"Home & Kitchen",8,50,"East","36-45","Debit Card","Overnight",400,99.1900144144893
+159,2023-02-04,"Electronics",5,150,"North","26-35","PayPal","Express",750,242.69476759946
+491,2023-02-04,"Home & Kitchen",4,500,"North","18-25","PayPal","Overnight",2000,558.559261728078
+713,2023-02-04,"Books",6,50,"East","18-25","PayPal","Overnight",300,59.5727058593184
+821,2023-02-04,"Clothing",6,300,"South","55+","Credit Card","Standard",1800,338.693324094638
+156,2023-02-06,"Home & Kitchen",10,50,"North","36-45","UPI","Standard",500,118.807643419132
+281,2023-02-06,"Electronics",4,100,"East","26-35","PayPal","Express",400,78.8718115724623
+562,2023-02-06,"Clothing",2,50,"East","46-55","Debit Card","Express",100,19.3187744915485
+256,2023-02-07,"Books",7,300,"South","26-35","PayPal","Standard",2100,633.598644803278
+942,2023-02-07,"Clothing",4,50,"South","18-25","Credit Card","Express",200,41.8168411310762
+570,2023-02-08,"Books",3,50,"South","18-25","UPI","Express",150,23.7979705561884
+756,2023-02-08,"Electronics",3,50,"West","46-55","Debit Card","Overnight",150,36.3557435246184
+53,2023-02-09,"Electronics",5,150,"East","55+","PayPal","Express",750,193.849946698174
+603,2023-02-09,"Books",5,50,"South","26-35","UPI","Express",250,78.9833643357269
+137,2023-02-10,"Clothing",9,200,"South","36-45","UPI","Overnight",1800,545.112600512803
+676,2023-02-10,"Clothing",8,100,"East","18-25","Credit Card","Express",800,145.206090025604
+103,2023-02-11,"Books",2,300,"North","36-45","Debit Card","Standard",600,137.305255914107
+104,2023-02-11,"Clothing",1,300,"West","36-45","Credit Card","Express",300,104.336185147986
+466,2023-02-11,"Sports",5,200,"East","36-45","Credit Card","Express",1000,248.755243513733
+168,2023-02-12,"Home & Kitchen",5,100,"North","18-25","PayPal","Overnight",500,81.8980161333457
+228,2023-02-12,"Sports",8,100,"South","46-55","PayPal","Standard",800,177.037264816463
+826,2023-02-12,"Books",5,200,"West","26-35","Debit Card","Express",1000,166.434608912095
+493,2023-02-14,"Clothing",1,50,"North","18-25","Debit Card","Overnight",50,15.9254258684814
+778,2023-02-14,"Home & Kitchen",2,50,"South","55+","PayPal","Standard",100,31.7510152701288
+285,2023-02-15,"Books",8,200,"North","46-55","Debit Card","Standard",1600,435.605275779962
+327,2023-02-15,"Books",2,150,"East","36-45","Credit Card","Standard",300,53.715184237808
+580,2023-02-15,"Electronics",1,50,"South","18-25","UPI","Overnight",50,11.8958082632162
+201,2023-02-16,"Electronics",9,100,"West","26-35","Debit Card","Express",900,201.960910479538
+271,2023-02-16,"Sports",9,150,"South","55+","PayPal","Standard",1350,341.653847477864
+370,2023-02-16,"Home & Kitchen",3,200,"West","36-45","Credit Card","Express",600,128.634598720819
+1,2023-02-18,"Electronics",6,50,"East","36-45","Credit Card","Express",300,80.835810508579
+8,2023-02-18,"Home & Kitchen",3,300,"South","18-25","UPI","Express",900,276.458382960409
+182,2023-02-18,"Books",7,300,"South","46-55","Debit Card","Standard",2100,555.817222441547
+234,2023-02-18,"Clothing",5,100,"East","26-35","PayPal","Express",500,78.39036420919
+372,2023-02-18,"Sports",1,50,"West","55+","Debit Card","Standard",50,12.6615851814859
+664,2023-02-18,"Clothing",9,500,"South","26-35","UPI","Express",4500,1104.06929813325
+947,2023-02-18,"Electronics",9,100,"East","55+","UPI","Standard",900,263.247011164203
+198,2023-02-20,"Clothing",1,500,"North","36-45","UPI","Overnight",500,106.18798120413
+994,2023-02-20,"Electronics",9,500,"East","46-55","UPI","Overnight",4500,971.020306670107
+379,2023-02-22,"Electronics",9,50,"South","36-45","UPI","Express",450,125.236286236905
+888,2023-02-22,"Books",10,100,"East","26-35","Debit Card","Standard",1000,316.566924378276
+915,2023-02-22,"Home & Kitchen",5,200,"North","26-35","Credit Card","Overnight",1000,328.120307065547
+84,2023-02-23,"Clothing",4,200,"North","55+","Debit Card","Express",800,159.717510230839
+225,2023-02-23,"Electronics",5,50,"North","36-45","PayPal","Overnight",250,49.6199353248812
+310,2023-02-23,"Books",1,200,"West","46-55","Debit Card","Express",200,44.7454836312681
+413,2023-02-23,"Electronics",3,50,"South","55+","Debit Card","Overnight",150,49.5835478953086
+553,2023-02-23,"Sports",6,200,"East","46-55","PayPal","Overnight",1200,339.825618937612
+224,2023-02-24,"Books",7,200,"North","36-45","Debit Card","Standard",1400,420.40587387979
+238,2023-02-24,"Electronics",5,100,"South","18-25","PayPal","Standard",500,114.32024652604
+749,2023-02-25,"Clothing",6,500,"South","55+","PayPal","Overnight",3000,934.993260120973
+792,2023-02-25,"Books",10,200,"South","55+","Credit Card","Express",2000,563.752136752009
+923,2023-02-25,"Home & Kitchen",5,50,"North","55+","PayPal","Overnight",250,54.6635150909424
+78,2023-02-26,"Clothing",9,150,"South","36-45","Credit Card","Express",1350,470.45672345208
+388,2023-02-26,"Sports",2,500,"North","46-55","Debit Card","Express",1000,233.475735085085
+414,2023-02-26,"Sports",9,50,"South","46-55","UPI","Standard",450,110.458644563332
+628,2023-02-26,"Home & Kitchen",7,50,"West","18-25","Credit Card","Express",350,89.8840972548351
+699,2023-02-26,"Books",3,100,"West","18-25","PayPal","Overnight",300,91.4655264560133
+925,2023-02-26,"Clothing",7,300,"South","26-35","Credit Card","Standard",2100,698.449883423746
+646,2023-02-27,"Clothing",9,150,"East","26-35","Credit Card","Overnight",1350,445.578821715899
+670,2023-02-27,"Books",4,200,"North","36-45","Credit Card","Overnight",800,212.510196715593
+381,2023-02-28,"Home & Kitchen",4,300,"North","46-55","Debit Card","Express",1200,375.806140489876
+921,2023-02-28,"Books",7,50,"South","26-35","Debit Card","Express",350,74.5537697407417
+89,2023-03-01,"Electronics",10,50,"West","36-45","UPI","Standard",500,168.512368388474
+961,2023-03-01,"Clothing",6,150,"South","18-25","UPI","Overnight",900,172.237428068183
+183,2023-03-02,"Electronics",7,200,"West","26-35","PayPal","Standard",1400,464.623400643468
+218,2023-03-02,"Clothing",6,50,"North","18-25","Debit Card","Express",300,96.1873963661492
+331,2023-03-02,"Electronics",9,500,"South","26-35","Credit Card","Express",4500,1520.70161928423
+796,2023-03-02,"Clothing",8,200,"East","36-45","PayPal","Express",1600,394.289147853851
+917,2023-03-02,"Clothing",10,500,"North","46-55","Credit Card","Overnight",5000,1429.71594282426
+990,2023-03-02,"Sports",8,200,"West","26-35","Credit Card","Overnight",1600,343.606869280338
+178,2023-03-03,"Electronics",4,200,"West","18-25","Credit Card","Overnight",800,128.754887953401
+428,2023-03-03,"Home & Kitchen",4,50,"North","18-25","Debit Card","Express",200,40.2789039723575
+788,2023-03-03,"Sports",9,500,"South","36-45","PayPal","Standard",4500,687.731576361693
+181,2023-03-04,"Sports",5,200,"South","46-55","Credit Card","Standard",1000,337.361711962149
+711,2023-03-04,"Home & Kitchen",8,500,"West","46-55","Credit Card","Standard",4000,616.509814187884
+643,2023-03-06,"Home & Kitchen",6,100,"West","46-55","Credit Card","Express",600,205.130702191964
+823,2023-03-06,"Home & Kitchen",9,500,"East","26-35","Debit Card","Express",4500,1550.9548171889
+139,2023-03-07,"Sports",10,500,"East","18-25","PayPal","Overnight",5000,1583.14965851605
+780,2023-03-07,"Clothing",3,50,"East","55+","Debit Card","Standard",150,32.6272864616476
+377,2023-03-08,"Clothing",5,500,"North","36-45","Credit Card","Express",2500,647.750817704946
+753,2023-03-08,"Home & Kitchen",5,500,"North","55+","UPI","Standard",2500,391.676014405675
+829,2023-03-08,"Home & Kitchen",3,200,"East","18-25","Debit Card","Overnight",600,170.08953566663
+880,2023-03-08,"Clothing",4,200,"West","26-35","UPI","Overnight",800,210.035234130919
+510,2023-03-09,"Sports",4,200,"South","46-55","PayPal","Overnight",800,255.930470116436
+586,2023-03-10,"Home & Kitchen",9,50,"North","46-55","UPI","Express",450,130.22862464888
+706,2023-03-10,"Sports",8,500,"East","36-45","PayPal","Overnight",4000,814.653863757849
+830,2023-03-10,"Home & Kitchen",2,150,"South","18-25","Debit Card","Standard",300,54.4662738405168
+802,2023-03-11,"Electronics",10,500,"North","55+","UPI","Overnight",5000,827.083640964702
+703,2023-03-12,"Sports",10,100,"North","18-25","UPI","Overnight",1000,303.872823622078
+96,2023-03-13,"Books",5,100,"North","26-35","PayPal","Overnight",500,150.303145963699
+669,2023-03-13,"Sports",2,300,"North","36-45","Credit Card","Express",600,114.873668560758
+955,2023-03-13,"Electronics",10,100,"South","46-55","PayPal","Express",1000,167.428240319714
+958,2023-03-13,"Clothing",9,50,"East","26-35","UPI","Express",450,151.026924045291
+324,2023-03-14,"Clothing",7,300,"North","18-25","PayPal","Standard",2100,349.401714163832
+983,2023-03-14,"Electronics",8,500,"South","55+","UPI","Standard",4000,653.075189702213
+4,2023-03-15,"Electronics",7,500,"West","18-25","PayPal","Standard",3500,892.953863670118
+344,2023-03-15,"Sports",1,150,"North","55+","Debit Card","Overnight",150,31.846389924176
+435,2023-03-15,"Sports",10,150,"South","26-35","Debit Card","Express",1500,348.09176211711
+798,2023-03-15,"Clothing",1,150,"East","26-35","Credit Card","Overnight",150,26.2935640406795
+799,2023-03-15,"Sports",7,100,"South","26-35","PayPal","Express",700,177.245526774786
+862,2023-03-15,"Sports",10,100,"South","46-55","Debit Card","Standard",1000,312.374957185239
+949,2023-03-15,"Books",7,200,"East","55+","Credit Card","Express",1400,450.30165027827
+968,2023-03-15,"Books",6,50,"East","55+","Debit Card","Overnight",300,52.751754289493
+176,2023-03-16,"Books",1,150,"East","18-25","Credit Card","Express",150,46.7775822593831
+526,2023-03-16,"Clothing",3,200,"West","36-45","UPI","Overnight",600,179.881724109873
+61,2023-03-17,"Electronics",1,100,"West","26-35","Debit Card","Standard",100,25.9128479426727
+723,2023-03-17,"Books",2,50,"North","18-25","Debit Card","Overnight",100,29.0652932692319
+558,2023-03-18,"Home & Kitchen",2,50,"North","18-25","UPI","Overnight",100,20.4934907983988
+899,2023-03-18,"Books",5,500,"West","46-55","PayPal","Express",2500,476.591253653169
+160,2023-03-19,"Books",6,300,"West","36-45","PayPal","Standard",1800,622.498647188768
+644,2023-03-19,"Books",5,200,"West","26-35","UPI","Express",1000,277.216961514205
+839,2023-03-19,"Electronics",7,200,"North","18-25","PayPal","Standard",1400,324.98790611513
+859,2023-03-19,"Home & Kitchen",3,100,"South","18-25","UPI","Overnight",300,99.9769708514213
+775,2023-03-20,"Books",7,150,"East","36-45","UPI","Standard",1050,160.031484249048
+417,2023-03-21,"Clothing",3,300,"North","46-55","Credit Card","Express",900,266.262785685249
+445,2023-03-21,"Electronics",8,150,"South","55+","UPI","Express",1200,235.439495779574
+743,2023-03-21,"Sports",9,200,"South","36-45","UPI","Overnight",1800,386.907629901543
+845,2023-03-22,"Books",6,300,"East","26-35","Credit Card","Express",1800,433.69315716438
+72,2023-03-23,"Home & Kitchen",1,50,"South","46-55","PayPal","Express",50,9.98674741014838
+321,2023-03-23,"Sports",8,500,"North","18-25","UPI","Express",4000,664.998934976757
+336,2023-03-23,"Electronics",7,100,"South","46-55","Debit Card","Overnight",700,204.01893127244
+602,2023-03-23,"Sports",5,200,"West","26-35","Credit Card","Standard",1000,296.139226155356
+787,2023-03-23,"Clothing",7,200,"East","18-25","UPI","Overnight",1400,345.38995154202
+828,2023-03-23,"Clothing",4,500,"West","55+","PayPal","Express",2000,603.160720784217
+599,2023-03-24,"Home & Kitchen",1,100,"East","18-25","Credit Card","Overnight",100,27.9295691661537
+216,2023-03-25,"Sports",3,500,"North","26-35","Credit Card","Overnight",1500,368.16042624414
+398,2023-03-25,"Clothing",1,200,"North","26-35","Credit Card","Overnight",200,31.3102629128844
+518,2023-03-25,"Electronics",7,150,"West","18-25","PayPal","Standard",1050,295.808707228862
+811,2023-03-25,"Clothing",8,500,"West","36-45","Debit Card","Standard",4000,934.997899085283
+935,2023-03-25,"Clothing",8,500,"East","46-55","Debit Card","Overnight",4000,837.626180239022
+230,2023-03-26,"Electronics",4,50,"West","26-35","Credit Card","Standard",200,37.1738672815263
+483,2023-03-26,"Electronics",8,150,"South","55+","Debit Card","Standard",1200,364.506726376712
+972,2023-03-26,"Clothing",2,300,"North","36-45","Credit Card","Express",600,144.871861506253
+251,2023-03-27,"Sports",3,300,"North","46-55","Debit Card","Overnight",900,254.356369217858
+386,2023-03-28,"Home & Kitchen",9,200,"South","55+","UPI","Express",1800,596.15351348184
+405,2023-03-28,"Books",10,100,"North","36-45","PayPal","Standard",1000,300.794085487723
+995,2023-03-28,"Clothing",5,300,"South","55+","Credit Card","Standard",1500,292.193445120938
+274,2023-03-29,"Home & Kitchen",10,200,"East","36-45","PayPal","Standard",2000,403.650385513902
+724,2023-03-29,"Home & Kitchen",4,50,"South","26-35","Debit Card","Express",200,38.8636898621917
+767,2023-03-29,"Home & Kitchen",2,300,"East","46-55","Credit Card","Express",600,114.550528703257
+14,2023-03-30,"Clothing",6,200,"West","26-35","Credit Card","Standard",1200,240.424968693405
+19,2023-03-30,"Books",1,500,"East","26-35","Debit Card","Express",500,154.914315254427
+280,2023-03-30,"Home & Kitchen",5,50,"West","36-45","PayPal","Standard",250,64.7981111658737
+356,2023-03-30,"Home & Kitchen",8,50,"West","46-55","PayPal","Overnight",400,82.7216304279864
+805,2023-03-31,"Books",2,200,"North","26-35","UPI","Standard",400,108.694695215672
+81,2023-04-01,"Books",5,200,"West","36-45","Credit Card","Express",1000,233.898443961516
+441,2023-04-01,"Sports",9,100,"South","55+","UPI","Overnight",900,307.46710118372
+717,2023-04-01,"Books",9,200,"East","26-35","PayPal","Express",1800,316.970366667956
+777,2023-04-01,"Home & Kitchen",4,500,"North","26-35","Debit Card","Standard",2000,618.91163168475
+849,2023-04-01,"Sports",1,200,"South","36-45","UPI","Overnight",200,69.2431122623384
+954,2023-04-01,"Clothing",3,200,"North","18-25","UPI","Standard",600,180.001674927771
+991,2023-04-01,"Clothing",1,200,"East","18-25","Credit Card","Standard",200,66.8212878890336
+623,2023-04-02,"Clothing",9,50,"East","55+","UPI","Express",450,73.5169958998449
+681,2023-04-02,"Home & Kitchen",4,150,"South","26-35","PayPal","Overnight",600,201.234011175111
+214,2023-04-03,"Sports",2,50,"South","55+","Credit Card","Overnight",100,32.4048164999112
+297,2023-04-03,"Home & Kitchen",2,150,"East","46-55","Debit Card","Overnight",300,104.211796908639
+249,2023-04-04,"Books",4,100,"North","36-45","Debit Card","Overnight",400,87.0491245761514
+340,2023-04-04,"Books",6,300,"West","18-25","PayPal","Overnight",1800,337.548370286822
+872,2023-04-04,"Home & Kitchen",5,500,"South","46-55","Credit Card","Overnight",2500,807.29737249203
+127,2023-04-05,"Clothing",1,200,"South","55+","Debit Card","Express",200,36.5448799729347
+151,2023-04-05,"Electronics",9,150,"West","46-55","Debit Card","Express",1350,472.368958541192
+394,2023-04-05,"Clothing",5,150,"South","36-45","Credit Card","Standard",750,139.484838384669
+501,2023-04-05,"Clothing",4,300,"North","55+","PayPal","Standard",1200,369.945379905403
+963,2023-04-05,"Clothing",5,50,"North","36-45","UPI","Standard",250,75.2219830523245
+163,2023-04-07,"Clothing",6,200,"North","55+","PayPal","Standard",1200,306.841117702425
+475,2023-04-07,"Sports",9,100,"South","55+","Credit Card","Standard",900,158.737092548981
+578,2023-04-07,"Clothing",4,150,"North","26-35","Debit Card","Express",600,204.229725720361
+142,2023-04-08,"Sports",8,100,"North","36-45","PayPal","Express",800,278.2618336007
+468,2023-04-08,"Books",8,150,"East","26-35","PayPal","Overnight",1200,358.028960153461
+584,2023-04-08,"Home & Kitchen",3,100,"North","36-45","Credit Card","Express",300,96.5905684931204
+634,2023-04-08,"Electronics",1,500,"South","26-35","Debit Card","Express",500,114.616085076705
+842,2023-04-08,"Sports",2,150,"West","26-35","PayPal","Standard",300,66.3546929787844
+879,2023-04-08,"Books",8,300,"South","36-45","PayPal","Express",2400,805.636651776731
+938,2023-04-08,"Electronics",9,100,"North","18-25","UPI","Overnight",900,250.010155658238
+672,2023-04-09,"Sports",10,150,"East","26-35","Credit Card","Express",1500,438.779824809171
+790,2023-04-09,"Home & Kitchen",3,100,"East","46-55","UPI","Overnight",300,79.7676597302779
+866,2023-04-09,"Sports",3,50,"West","18-25","UPI","Standard",150,23.0973236588761
+79,2023-04-10,"Clothing",7,200,"West","36-45","Credit Card","Standard",1400,226.429124772549
+439,2023-04-10,"Books",6,500,"South","55+","PayPal","Express",3000,767.66220764257
+559,2023-04-11,"Clothing",7,50,"West","46-55","Debit Card","Overnight",350,89.8039154009894
+789,2023-04-11,"Clothing",1,100,"West","18-25","UPI","Express",100,17.7640402968973
+973,2023-04-11,"Sports",7,100,"South","26-35","Credit Card","Overnight",700,235.554891480133
+219,2023-04-12,"Electronics",8,200,"South","55+","Debit Card","Overnight",1600,492.664321288467
+499,2023-04-12,"Books",2,50,"South","26-35","PayPal","Overnight",100,23.6706768814474
+500,2023-04-12,"Books",5,150,"East","55+","UPI","Standard",750,139.089849579614
+903,2023-04-12,"Sports",6,150,"West","46-55","Debit Card","Standard",900,297.99670797307
+56,2023-04-13,"Sports",6,100,"North","36-45","Debit Card","Standard",600,151.54785127379
+359,2023-04-13,"Home & Kitchen",4,50,"South","26-35","Credit Card","Standard",200,59.5397636946291
+512,2023-04-13,"Home & Kitchen",1,100,"East","26-35","UPI","Standard",100,17.612589863129
+528,2023-04-13,"Clothing",10,300,"North","26-35","Debit Card","Overnight",3000,541.322451224551
+537,2023-04-13,"Home & Kitchen",6,500,"North","46-55","Credit Card","Overnight",3000,658.776814118028
+485,2023-04-14,"Sports",9,300,"South","18-25","Debit Card","Overnight",2700,423.741597700864
+272,2023-04-15,"Home & Kitchen",4,500,"East","18-25","Credit Card","Standard",2000,517.935229558498
+524,2023-04-15,"Books",4,100,"East","36-45","Debit Card","Express",400,120.122021790594
+782,2023-04-15,"Books",8,150,"West","36-45","Credit Card","Express",1200,303.146361541003
+358,2023-04-16,"Books",9,200,"West","26-35","UPI","Overnight",1800,458.211354911327
+730,2023-04-16,"Books",5,50,"East","18-25","Debit Card","Standard",250,38.5038360022008
+840,2023-04-16,"Home & Kitchen",6,100,"South","55+","PayPal","Express",600,99.6416536532342
+913,2023-04-16,"Books",2,500,"East","18-25","Debit Card","Express",1000,339.428160153329
+145,2023-04-17,"Sports",10,100,"North","46-55","PayPal","Express",1000,254.944578325376
+411,2023-04-17,"Electronics",10,300,"East","26-35","Debit Card","Standard",3000,858.500064304098
+464,2023-04-17,"Clothing",9,300,"South","55+","Debit Card","Express",2700,460.279158144258
+912,2023-04-17,"Clothing",5,150,"East","46-55","PayPal","Express",750,192.458147567231
+922,2023-04-17,"Electronics",3,200,"South","55+","Debit Card","Overnight",600,125.998958274722
+92,2023-04-18,"Clothing",5,50,"North","36-45","Credit Card","Standard",250,72.9572801734321
+322,2023-04-18,"Clothing",1,200,"North","46-55","Debit Card","Express",200,42.4980489630252
+352,2023-04-18,"Books",3,150,"East","36-45","Debit Card","Overnight",450,137.899047592655
+901,2023-04-18,"Books",9,500,"North","55+","Debit Card","Overnight",4500,1533.2304070238
+943,2023-04-18,"Sports",4,500,"West","55+","PayPal","Standard",2000,487.888650316745
+21,2023-04-19,"Clothing",9,50,"East","26-35","Credit Card","Overnight",450,108.185070971958
+37,2023-04-19,"Electronics",8,200,"South","36-45","PayPal","Express",1600,396.379306763411
+58,2023-04-19,"Electronics",3,200,"North","55+","PayPal","Express",600,123.035787586123
+985,2023-04-19,"Sports",1,50,"South","36-45","UPI","Standard",50,15.5868215090595
+16,2023-04-20,"Electronics",10,150,"North","36-45","Debit Card","Standard",1500,412.77989577502
+74,2023-04-20,"Sports",6,500,"East","18-25","Credit Card","Standard",3000,986.675516562536
+409,2023-04-20,"Clothing",7,50,"West","26-35","Debit Card","Standard",350,77.9458468826488
+418,2023-04-20,"Home & Kitchen",9,500,"North","26-35","UPI","Overnight",4500,1385.07551299408
+639,2023-04-20,"Clothing",8,200,"East","36-45","UPI","Express",1600,515.281370580196
+115,2023-04-21,"Clothing",4,100,"South","46-55","UPI","Standard",400,95.3636196441948
+313,2023-04-21,"Electronics",4,150,"South","55+","PayPal","Overnight",600,197.122139995918
+765,2023-04-21,"Sports",2,500,"North","36-45","Credit Card","Express",1000,168.070094147697
+95,2023-04-22,"Electronics",10,300,"North","26-35","Debit Card","Standard",3000,545.509075233713
+550,2023-04-22,"Sports",2,200,"West","36-45","PayPal","Standard",400,118.956735990942
+728,2023-04-22,"Books",9,50,"South","55+","PayPal","Overnight",450,140.168107361533
+247,2023-04-23,"Books",7,50,"West","26-35","UPI","Standard",350,77.2795947501436
+267,2023-04-23,"Clothing",4,500,"South","46-55","UPI","Overnight",2000,331.28220513463
+45,2023-04-24,"Home & Kitchen",4,300,"North","55+","Debit Card","Standard",1200,397.677143029869
+252,2023-04-24,"Home & Kitchen",6,200,"South","26-35","PayPal","Express",1200,310.780559107661
+543,2023-04-24,"Clothing",7,300,"South","55+","Credit Card","Standard",2100,403.49042579066
+259,2023-04-25,"Electronics",2,300,"South","18-25","UPI","Overnight",600,117.590382518247
+320,2023-04-25,"Home & Kitchen",4,300,"North","36-45","Credit Card","Express",1200,195.249152015895
+592,2023-04-25,"Clothing",6,200,"North","36-45","Credit Card","Express",1200,392.50344933942
+621,2023-04-25,"Clothing",8,100,"West","18-25","PayPal","Standard",800,275.03961417824
+184,2023-04-26,"Home & Kitchen",9,500,"North","26-35","Debit Card","Express",4500,1438.95624924917
+350,2023-04-26,"Books",4,200,"East","26-35","Credit Card","Standard",800,211.451110169291
+476,2023-04-27,"Sports",9,100,"North","26-35","UPI","Standard",900,181.300363219343
+70,2023-04-28,"Home & Kitchen",9,100,"West","46-55","Debit Card","Express",900,172.176490752026
+155,2023-04-28,"Electronics",4,300,"West","18-25","UPI","Express",1200,239.702845271677
+568,2023-04-28,"Electronics",9,50,"West","55+","PayPal","Standard",450,108.617310316768
+904,2023-04-28,"Sports",3,500,"South","26-35","PayPal","Express",1500,363.718876289204
+410,2023-04-29,"Electronics",8,200,"East","55+","UPI","Overnight",1600,391.565669178963
+520,2023-04-30,"Electronics",6,100,"West","55+","Credit Card","Overnight",600,183.465501666069
+893,2023-04-30,"Electronics",8,200,"West","55+","Credit Card","Standard",1600,351.670956462622
+279,2023-05-01,"Clothing",10,50,"South","36-45","Debit Card","Standard",500,99.1142817307263
+933,2023-05-01,"Electronics",8,150,"North","36-45","PayPal","Express",1200,190.717284455895
+7,2023-05-02,"Books",3,200,"East","26-35","Debit Card","Express",600,154.894327959046
+436,2023-05-03,"Sports",7,50,"West","46-55","PayPal","Express",350,58.3599697612226
+149,2023-05-04,"Books",8,200,"West","36-45","Credit Card","Standard",1600,424.232585728168
+180,2023-05-04,"Clothing",7,300,"North","46-55","PayPal","Overnight",2100,362.132778936066
+844,2023-05-04,"Books",4,300,"East","46-55","UPI","Standard",1200,263.275702893734
+380,2023-05-05,"Sports",4,200,"East","18-25","Debit Card","Standard",800,263.322542272508
+600,2023-05-05,"Sports",8,150,"South","46-55","Credit Card","Standard",1200,282.451019212604
+658,2023-05-05,"Sports",10,300,"East","55+","Credit Card","Express",3000,744.610115233809
+982,2023-05-05,"Electronics",8,50,"North","36-45","PayPal","Standard",400,121.261595841497
+94,2023-05-06,"Home & Kitchen",10,150,"West","18-25","Credit Card","Express",1500,343.726876960136
+490,2023-05-06,"Books",10,500,"North","46-55","Credit Card","Express",5000,1498.28764586709
+927,2023-05-06,"Books",10,150,"South","55+","Debit Card","Standard",1500,233.158677024767
+166,2023-05-07,"Clothing",10,300,"East","55+","Debit Card","Overnight",3000,522.735307971016
+190,2023-05-07,"Sports",1,500,"North","36-45","PayPal","Overnight",500,157.202206505463
+9,2023-05-08,"Home & Kitchen",7,200,"South","18-25","Debit Card","Overnight",1400,489.652781514451
+136,2023-05-08,"Sports",1,200,"East","18-25","UPI","Standard",200,65.5515821650624
+977,2023-05-08,"Books",2,300,"North","36-45","Debit Card","Standard",600,137.155406232923
+554,2023-05-09,"Sports",2,150,"South","36-45","PayPal","Overnight",300,91.7873468901962
+47,2023-05-10,"Sports",7,100,"South","55+","UPI","Standard",700,125.296532930806
+71,2023-05-10,"Books",3,150,"West","26-35","Credit Card","Express",450,153.484246954322
+487,2023-05-10,"Electronics",7,500,"West","18-25","PayPal","Standard",3500,1101.05680101551
+329,2023-05-11,"Sports",2,200,"North","18-25","PayPal","Standard",400,87.4248504638672
+769,2023-05-11,"Home & Kitchen",10,50,"East","26-35","UPI","Overnight",500,125.271579902619
+376,2023-05-12,"Electronics",5,300,"West","26-35","Credit Card","Overnight",1500,270.68703873083
+818,2023-05-12,"Sports",3,200,"East","36-45","Credit Card","Express",600,191.623022379354
+250,2023-05-13,"Books",7,100,"West","36-45","Debit Card","Standard",700,134.052010476589
+532,2023-05-13,"Clothing",9,500,"East","46-55","PayPal","Express",4500,1384.72532986198
+709,2023-05-13,"Home & Kitchen",4,100,"North","18-25","Debit Card","Overnight",400,103.438537809998
+477,2023-05-14,"Clothing",5,500,"East","26-35","Credit Card","Express",2500,758.912492077798
+304,2023-05-15,"Sports",9,300,"East","46-55","Debit Card","Overnight",2700,868.650231063366
+457,2023-05-15,"Clothing",2,150,"East","18-25","UPI","Standard",300,87.909942548722
+731,2023-05-15,"Electronics",1,150,"East","55+","Credit Card","Express",150,23.5274208267219
+33,2023-05-16,"Electronics",3,150,"West","46-55","Credit Card","Express",450,89.7311090282165
+189,2023-05-16,"Books",4,200,"West","18-25","Debit Card","Overnight",800,133.827496170998
+496,2023-05-16,"Sports",5,50,"East","46-55","Debit Card","Express",250,66.2258386379108
+680,2023-05-17,"Books",7,100,"West","18-25","Credit Card","Express",700,149.814888071269
+766,2023-05-17,"Sports",6,500,"East","18-25","Debit Card","Express",3000,970.009740488604
+52,2023-05-18,"Clothing",7,500,"West","18-25","UPI","Overnight",3500,1206.16559823975
+157,2023-05-18,"Sports",5,50,"East","18-25","Credit Card","Express",250,75.0243415939621
+318,2023-05-18,"Home & Kitchen",2,500,"West","26-35","Debit Card","Express",1000,238.354699034244
+396,2023-05-18,"Home & Kitchen",9,150,"East","18-25","UPI","Express",1350,349.485828985926
+513,2023-05-18,"Clothing",1,100,"West","36-45","UPI","Overnight",100,16.580176721327
+838,2023-05-18,"Clothing",5,500,"North","18-25","UPI","Standard",2500,480.953207588755
+235,2023-05-19,"Home & Kitchen",10,300,"West","36-45","PayPal","Overnight",3000,867.385426349938
+988,2023-05-19,"Books",6,200,"West","36-45","UPI","Standard",1200,194.283425677568
+99,2023-05-21,"Clothing",9,50,"East","55+","UPI","Standard",450,73.8347318465821
+308,2023-05-21,"Sports",1,100,"North","26-35","PayPal","Standard",100,29.5672478200868
+427,2023-05-21,"Electronics",7,300,"East","55+","UPI","Overnight",2100,457.100174669176
+527,2023-05-21,"Clothing",3,300,"West","55+","Debit Card","Standard",900,266.208304404281
+367,2023-05-22,"Books",5,50,"South","18-25","PayPal","Overnight",250,57.0686370134354
+704,2023-05-22,"Books",1,100,"North","46-55","Credit Card","Express",100,17.7433285862207
+748,2023-05-22,"Clothing",1,50,"East","26-35","PayPal","Express",50,14.5247821323574
+561,2023-05-23,"Home & Kitchen",4,200,"South","46-55","PayPal","Standard",800,245.023197717965
+494,2023-05-24,"Electronics",6,200,"North","36-45","PayPal","Standard",1200,253.121884055436
+739,2023-05-25,"Clothing",10,200,"West","26-35","Credit Card","Express",2000,485.664216894656
+742,2023-05-25,"Home & Kitchen",7,200,"North","46-55","Debit Card","Overnight",1400,331.93556824699
+6,2023-05-26,"Books",2,300,"West","18-25","Debit Card","Standard",600,193.117385068908
+36,2023-05-26,"Home & Kitchen",7,150,"East","18-25","PayPal","Express",1050,157.858321401291
+969,2023-05-26,"Electronics",7,150,"East","36-45","Credit Card","Standard",1050,167.283798137214
+325,2023-05-27,"Sports",7,200,"East","36-45","Debit Card","Overnight",1400,400.124268094078
+353,2023-05-27,"Clothing",5,200,"South","18-25","UPI","Express",1000,183.783884905279
+458,2023-05-27,"Sports",1,500,"North","18-25","PayPal","Overnight",500,172.578333038837
+687,2023-05-27,"Clothing",1,200,"West","55+","Credit Card","Overnight",200,34.8770550452173
+779,2023-05-27,"Books",3,100,"East","55+","Credit Card","Overnight",300,85.6358627462759
+950,2023-05-27,"Sports",5,500,"South","18-25","UPI","Standard",2500,688.96618927829
+243,2023-05-28,"Clothing",10,300,"West","26-35","Debit Card","Standard",3000,774.75213278085
+389,2023-05-28,"Books",3,500,"North","26-35","Debit Card","Overnight",1500,241.582788457163
+574,2023-05-28,"Home & Kitchen",3,500,"North","18-25","Credit Card","Standard",1500,437.359792320058
+594,2023-05-28,"Home & Kitchen",7,100,"North","26-35","UPI","Express",700,202.706858753227
+609,2023-05-28,"Clothing",8,300,"West","26-35","Credit Card","Standard",2400,788.913185633719
+77,2023-05-29,"Home & Kitchen",4,300,"South","26-35","PayPal","Express",1200,262.985033355653
+452,2023-05-29,"Books",9,300,"East","26-35","Credit Card","Express",2700,406.205624872819
+221,2023-05-30,"Clothing",4,500,"South","46-55","Credit Card","Standard",2000,694.398775883019
+330,2023-05-30,"Books",5,300,"East","46-55","UPI","Standard",1500,313.830343913287
+662,2023-05-30,"Home & Kitchen",4,200,"East","55+","Debit Card","Express",800,217.0446241647
+683,2023-05-30,"Electronics",9,50,"South","26-35","Credit Card","Express",450,75.3173802956007
+891,2023-05-31,"Electronics",3,50,"East","26-35","Credit Card","Standard",150,47.2135513345711
+959,2023-05-31,"Books",8,100,"South","46-55","UPI","Standard",800,173.78046233207
+974,2023-05-31,"Clothing",5,100,"West","46-55","Debit Card","Standard",500,131.264177989215
+141,2023-06-01,"Electronics",1,500,"North","55+","UPI","Standard",500,132.809367333539
+655,2023-06-01,"Sports",5,300,"West","36-45","Debit Card","Standard",1500,517.320516239852
+682,2023-06-01,"Sports",2,150,"North","46-55","UPI","Standard",300,45.2553116250783
+3,2023-06-02,"Clothing",2,200,"West","36-45","UPI","Express",400,97.7615637332201
+231,2023-06-02,"Electronics",7,300,"North","55+","Debit Card","Overnight",2100,631.45254815463
+793,2023-06-02,"Clothing",10,100,"North","55+","PayPal","Express",1000,342.568376613781
+627,2023-06-03,"Clothing",3,150,"North","18-25","UPI","Standard",450,121.885825234931
+663,2023-06-03,"Clothing",5,50,"East","36-45","UPI","Overnight",250,45.7248887978494
+770,2023-06-03,"Electronics",9,100,"South","46-55","Credit Card","Express",900,225.243203854188
+626,2023-06-04,"Sports",9,500,"West","26-35","PayPal","Express",4500,1057.9138397472
+967,2023-06-04,"Electronics",2,200,"West","46-55","Credit Card","Express",400,69.9557665549219
+162,2023-06-05,"Electronics",1,500,"West","18-25","Debit Card","Standard",500,104.978169081733
+236,2023-06-05,"Electronics",6,150,"East","46-55","UPI","Express",900,304.876699447632
+492,2023-06-05,"Sports",3,100,"West","55+","Credit Card","Standard",300,57.0183527469635
+577,2023-06-05,"Electronics",3,150,"South","36-45","Debit Card","Express",450,93.8212850759737
+60,2023-06-06,"Electronics",1,50,"West","55+","Debit Card","Overnight",50,14.1340706450865
+108,2023-06-06,"Clothing",10,100,"West","46-55","Credit Card","Overnight",1000,193.612449849024
+401,2023-06-06,"Sports",6,150,"East","26-35","PayPal","Standard",900,263.617113134824
+605,2023-06-06,"Sports",10,500,"West","55+","Debit Card","Express",5000,781.12824074924
+30,2023-06-07,"Books",5,500,"West","26-35","Debit Card","Express",2500,382.907727267593
+197,2023-06-07,"Home & Kitchen",2,200,"South","26-35","Debit Card","Overnight",400,67.8322927467525
+463,2023-06-07,"Home & Kitchen",10,200,"West","36-45","PayPal","Express",2000,619.067011680454
+651,2023-06-07,"Sports",6,100,"East","55+","PayPal","Standard",600,188.594033131376
+725,2023-06-07,"Electronics",5,50,"South","55+","PayPal","Express",250,85.3750782553107
+870,2023-06-07,"Home & Kitchen",4,50,"South","46-55","PayPal","Overnight",200,31.3980995956808
+188,2023-06-08,"Home & Kitchen",9,200,"West","46-55","UPI","Express",1800,587.929708594456
+307,2023-06-08,"Sports",10,150,"West","26-35","UPI","Overnight",1500,461.071808310226
+804,2023-06-08,"Clothing",8,50,"North","36-45","Debit Card","Standard",400,132.123788949102
+819,2023-06-08,"Sports",7,300,"North","18-25","UPI","Express",2100,576.113976538181
+507,2023-06-10,"Electronics",5,300,"East","26-35","Credit Card","Express",1500,364.310113736428
+729,2023-06-10,"Sports",4,100,"South","18-25","Credit Card","Express",400,138.129357881844
+987,2023-06-10,"Home & Kitchen",5,50,"West","18-25","PayPal","Express",250,78.9005681057461
+148,2023-06-11,"Clothing",8,500,"West","55+","PayPal","Standard",4000,629.722621850669
+385,2023-06-11,"Books",5,200,"West","26-35","Credit Card","Overnight",1000,245.558843109757
+596,2023-06-11,"Sports",5,50,"North","55+","Credit Card","Standard",250,45.8038768498227
+851,2023-06-11,"Books",10,200,"East","36-45","Credit Card","Express",2000,321.463065035641
+283,2023-06-12,"Clothing",4,100,"South","46-55","UPI","Standard",400,83.2163553312421
+548,2023-06-12,"Clothing",4,150,"East","18-25","Credit Card","Overnight",600,151.003723433241
+573,2023-06-12,"Electronics",7,150,"East","18-25","UPI","Standard",1050,199.642258007079
+754,2023-06-13,"Electronics",4,100,"South","36-45","Credit Card","Overnight",400,97.4087496288121
+15,2023-06-14,"Electronics",9,150,"North","46-55","UPI","Overnight",1350,433.30803928664
+200,2023-06-14,"Clothing",1,200,"South","26-35","UPI","Overnight",200,41.2383183464408
+652,2023-06-14,"Home & Kitchen",5,150,"West","18-25","Credit Card","Standard",750,259.786461351905
+781,2023-06-14,"Electronics",4,300,"West","18-25","PayPal","Express",1200,203.091556616127
+908,2023-06-14,"Electronics",9,500,"East","46-55","PayPal","Standard",4500,1332.37169024069
+671,2023-06-15,"Books",8,50,"East","26-35","UPI","Standard",400,78.8773636333644
+693,2023-06-15,"Electronics",8,50,"North","46-55","PayPal","Overnight",400,126.796400081366
+708,2023-06-15,"Home & Kitchen",4,50,"North","26-35","PayPal","Standard",200,50.4278556909412
+868,2023-06-15,"Clothing",2,50,"North","26-35","Credit Card","Standard",100,18.9069021027535
+914,2023-06-15,"Electronics",6,200,"East","36-45","Debit Card","Overnight",1200,345.466648768634
+794,2023-06-16,"Sports",5,100,"North","36-45","Debit Card","Express",500,174.677757662721
+801,2023-06-16,"Books",8,50,"North","55+","PayPal","Express",400,127.499913815409
+887,2023-06-16,"Home & Kitchen",2,500,"South","55+","Debit Card","Express",1000,261.672645248473
+907,2023-06-16,"Clothing",6,150,"West","36-45","Credit Card","Overnight",900,300.73657697998
+404,2023-06-17,"Sports",3,150,"North","46-55","Debit Card","Express",450,109.33065319201
+996,2023-06-17,"Electronics",9,150,"East","36-45","Credit Card","Standard",1350,259.195505571552
+254,2023-06-18,"Electronics",6,500,"West","55+","PayPal","Express",3000,872.843190841377
+800,2023-06-18,"Books",9,200,"North","36-45","PayPal","Standard",1800,598.135845484212
+241,2023-06-19,"Home & Kitchen",9,150,"West","55+","Credit Card","Express",1350,444.710037012119
+333,2023-06-19,"Books",6,300,"North","26-35","UPI","Express",1800,452.827355749905
+383,2023-06-19,"Home & Kitchen",8,100,"South","46-55","UPI","Standard",800,268.35201561451
+460,2023-06-19,"Sports",6,300,"West","55+","PayPal","Overnight",1800,625.269816527143
+951,2023-06-19,"Sports",3,100,"East","46-55","PayPal","Standard",300,75.7369714602828
+220,2023-06-20,"Sports",7,200,"South","18-25","Credit Card","Express",1400,380.150723587722
+472,2023-06-20,"Clothing",3,500,"West","36-45","UPI","Overnight",1500,451.557715865783
+945,2023-06-20,"Books",8,50,"North","18-25","Debit Card","Standard",400,125.725722908974
+965,2023-06-20,"Electronics",10,50,"West","46-55","Debit Card","Overnight",500,140.236605401151
+302,2023-06-21,"Electronics",2,100,"North","26-35","Credit Card","Standard",200,65.1560105197132
+656,2023-06-21,"Home & Kitchen",10,150,"North","18-25","Debit Card","Overnight",1500,296.065353043377
+750,2023-06-21,"Electronics",6,200,"West","36-45","UPI","Standard",1200,345.701257288456
+817,2023-06-21,"Clothing",1,50,"North","18-25","UPI","Standard",50,9.05279913451523
+227,2023-06-22,"Sports",5,200,"East","46-55","PayPal","Express",1000,316.073048440739
+481,2023-06-22,"Clothing",7,500,"South","18-25","UPI","Express",3500,804.690805706196
+486,2023-06-22,"Home & Kitchen",4,100,"North","18-25","Credit Card","Overnight",400,126.787618454546
+517,2023-06-22,"Home & Kitchen",3,300,"East","18-25","Credit Card","Express",900,241.95604420267
+338,2023-06-23,"Books",8,50,"North","26-35","PayPal","Express",400,109.716010428965
+391,2023-06-23,"Books",9,100,"East","55+","Debit Card","Overnight",900,143.76336065121
+392,2023-06-23,"Books",4,300,"West","26-35","Credit Card","Express",1200,314.143433365971
+461,2023-06-23,"Sports",3,500,"East","46-55","Credit Card","Standard",1500,340.548246377148
+674,2023-06-24,"Sports",3,500,"South","36-45","Debit Card","Overnight",1500,482.504253066145
+941,2023-06-24,"Books",9,100,"North","26-35","UPI","Standard",900,291.372967329808
+521,2023-06-25,"Clothing",9,200,"North","36-45","Credit Card","Standard",1800,432.854173667729
+525,2023-06-25,"Sports",10,500,"North","36-45","PayPal","Express",5000,883.420336293056
+869,2023-06-25,"Clothing",3,200,"North","55+","PayPal","Standard",600,93.3612515777349
+565,2023-06-26,"Electronics",4,200,"West","18-25","Credit Card","Overnight",800,263.483835197985
+619,2023-06-26,"Home & Kitchen",4,200,"South","18-25","Debit Card","Express",800,171.845779791474
+852,2023-06-26,"Home & Kitchen",6,500,"East","18-25","PayPal","Standard",3000,965.532491588965
+342,2023-06-27,"Electronics",1,300,"West","36-45","PayPal","Express",300,50.4695883393288
+591,2023-06-27,"Home & Kitchen",10,300,"South","36-45","Credit Card","Overnight",3000,985.13421700336
+784,2023-06-27,"Clothing",4,50,"North","55+","Credit Card","Standard",200,53.5015149228275
+837,2023-06-27,"Books",6,50,"North","18-25","Debit Card","Express",300,74.121140409261
+343,2023-06-28,"Home & Kitchen",8,300,"North","46-55","Credit Card","Standard",2400,688.924955874681
+610,2023-06-28,"Sports",2,150,"East","46-55","PayPal","Overnight",300,71.486452370882
+727,2023-06-28,"Clothing",8,150,"West","26-35","UPI","Overnight",1200,284.926041550934
+910,2023-06-28,"Sports",4,50,"West","26-35","Debit Card","Overnight",200,43.0112973228097
+169,2023-06-29,"Home & Kitchen",8,200,"West","36-45","Credit Card","Overnight",1600,351.138534471393
+173,2023-06-29,"Electronics",8,150,"East","55+","Credit Card","Standard",1200,390.63493128866
+549,2023-06-29,"Sports",10,500,"South","55+","Debit Card","Overnight",5000,857.146014692262
+598,2023-06-29,"Books",9,200,"East","26-35","UPI","Express",1800,368.328081881627
+745,2023-06-29,"Electronics",8,150,"East","36-45","PayPal","Express",1200,384.220629930496
+820,2023-06-29,"Sports",4,500,"South","55+","Credit Card","Overnight",2000,485.567775927484
+83,2023-06-30,"Home & Kitchen",4,300,"South","55+","Debit Card","Standard",1200,282.878135964274
+210,2023-06-30,"Books",3,500,"West","18-25","UPI","Standard",1500,234.965079347603
+276,2023-06-30,"Home & Kitchen",3,150,"North","18-25","Debit Card","Overnight",450,126.395201571286
+165,2023-07-01,"Electronics",7,200,"East","26-35","UPI","Express",1400,334.506108555943
+222,2023-07-01,"Books",3,300,"West","36-45","Debit Card","Express",900,252.102224333212
+981,2023-07-01,"Electronics",7,300,"North","26-35","PayPal","Express",2100,509.188702180982
+519,2023-07-02,"Sports",8,200,"North","26-35","Credit Card","Standard",1600,511.704609617591
+751,2023-07-02,"Home & Kitchen",8,200,"South","46-55","PayPal","Express",1600,518.704894855618
+363,2023-07-03,"Home & Kitchen",2,100,"West","18-25","PayPal","Express",200,57.8138320893049
+579,2023-07-03,"Clothing",4,500,"West","46-55","Debit Card","Express",2000,328.581139352173
+583,2023-07-03,"Clothing",4,50,"East","18-25","PayPal","Express",200,49.7565757762641
+911,2023-07-03,"Clothing",4,300,"South","36-45","PayPal","Overnight",1200,416.431790962815
+928,2023-07-03,"Sports",7,500,"South","55+","PayPal","Standard",3500,665.198720805347
+153,2023-07-04,"Clothing",4,100,"South","36-45","UPI","Express",400,78.0671697854996
+625,2023-07-04,"Clothing",1,100,"North","46-55","PayPal","Express",100,18.3045828668401
+966,2023-07-04,"Home & Kitchen",9,500,"West","36-45","PayPal","Standard",4500,1563.06687325705
+51,2023-07-05,"Clothing",2,200,"East","18-25","Debit Card","Overnight",400,94.5063766092062
+632,2023-07-05,"Electronics",4,50,"South","26-35","PayPal","Overnight",200,34.1538356430829
+740,2023-07-05,"Home & Kitchen",10,100,"West","18-25","UPI","Standard",1000,162.800408061594
+269,2023-07-06,"Sports",5,500,"South","46-55","PayPal","Standard",2500,794.765731901862
+378,2023-07-06,"Electronics",10,200,"North","46-55","UPI","Overnight",2000,655.526781734079
+133,2023-07-07,"Clothing",8,50,"North","36-45","Credit Card","Standard",400,62.1056912653148
+505,2023-07-07,"Home & Kitchen",7,300,"East","26-35","PayPal","Standard",2100,395.484791281633
+757,2023-07-07,"Home & Kitchen",4,100,"South","36-45","Credit Card","Standard",400,85.9662806242704
+906,2023-07-07,"Home & Kitchen",5,300,"South","18-25","Credit Card","Express",1500,266.135503328405
+992,2023-07-07,"Sports",8,100,"North","36-45","UPI","Standard",800,235.665681920946
+245,2023-07-08,"Books",8,500,"North","26-35","Credit Card","Express",4000,1269.06612180173
+552,2023-07-08,"Sports",8,300,"West","46-55","Credit Card","Standard",2400,661.370209045708
+822,2023-07-08,"Sports",4,50,"South","18-25","Debit Card","Express",200,53.6847949493676
+384,2023-07-09,"Books",10,300,"East","26-35","UPI","Standard",3000,453.380791889504
+614,2023-07-09,"Books",3,50,"South","18-25","Debit Card","Overnight",150,41.5109010203741
+806,2023-07-09,"Electronics",1,500,"South","46-55","Credit Card","Express",500,76.8605265999213
+110,2023-07-10,"Sports",6,100,"West","26-35","UPI","Standard",600,174.659999795258
+395,2023-07-10,"Home & Kitchen",8,300,"North","26-35","PayPal","Standard",2400,674.894074201584
+368,2023-07-11,"Home & Kitchen",8,100,"East","55+","Credit Card","Overnight",800,173.408004045486
+138,2023-07-12,"Electronics",3,100,"East","26-35","Credit Card","Express",300,46.224696887657
+196,2023-07-12,"Books",10,100,"North","18-25","UPI","Overnight",1000,252.6388828177
+371,2023-07-12,"Home & Kitchen",4,100,"North","46-55","Debit Card","Overnight",400,133.6640541628
+909,2023-07-12,"Books",7,300,"South","36-45","Debit Card","Standard",2100,341.155046811327
+150,2023-07-13,"Electronics",2,200,"North","55+","PayPal","Overnight",400,130.613733101636
+282,2023-07-13,"Clothing",9,500,"North","26-35","Credit Card","Overnight",4500,1343.43684513588
+454,2023-07-14,"Electronics",5,200,"East","55+","Credit Card","Express",1000,289.745275769383
+539,2023-07-14,"Sports",7,100,"North","26-35","Debit Card","Overnight",700,238.257612418383
+747,2023-07-14,"Sports",5,300,"West","18-25","PayPal","Overnight",1500,395.273599633947
+768,2023-07-14,"Electronics",8,50,"West","46-55","UPI","Express",400,65.189955253154
+403,2023-07-15,"Sports",6,100,"East","26-35","Credit Card","Express",600,138.801608774811
+702,2023-07-15,"Electronics",1,300,"South","55+","Credit Card","Standard",300,82.0995227247476
+39,2023-07-16,"Clothing",1,100,"South","46-55","UPI","Express",100,15.5156329972669
+366,2023-07-16,"Electronics",1,150,"North","55+","Debit Card","Standard",150,22.6041745324619
+203,2023-07-17,"Books",10,200,"North","26-35","Credit Card","Standard",2000,476.884491275996
+440,2023-07-17,"Books",4,500,"West","18-25","PayPal","Standard",2000,324.754457175732
+678,2023-07-17,"Sports",9,500,"West","55+","Credit Card","Overnight",4500,877.631863136776
+319,2023-07-18,"Clothing",9,200,"North","36-45","Credit Card","Standard",1800,276.864481559023
+514,2023-07-19,"Clothing",8,300,"North","36-45","Credit Card","Standard",2400,687.357938736677
+971,2023-07-19,"Sports",7,300,"West","36-45","PayPal","Overnight",2100,344.281453806907
+177,2023-07-20,"Home & Kitchen",1,150,"North","26-35","UPI","Overnight",150,33.7497641891241
+206,2023-07-20,"Books",3,200,"North","18-25","Credit Card","Overnight",600,189.533104095608
+715,2023-07-20,"Electronics",9,200,"East","18-25","PayPal","Express",1800,344.075810490176
+873,2023-07-20,"Electronics",6,50,"West","46-55","UPI","Overnight",300,78.1793556455523
+953,2023-07-20,"Clothing",4,150,"West","26-35","Credit Card","Standard",600,108.799975058064
+273,2023-07-21,"Clothing",1,50,"North","18-25","Debit Card","Express",50,13.0066879815422
+323,2023-07-21,"Clothing",7,50,"South","26-35","Credit Card","Standard",350,94.1787672834471
+408,2023-07-21,"Clothing",2,150,"North","18-25","PayPal","Standard",300,81.9663618318737
+292,2023-07-22,"Electronics",2,300,"West","18-25","Credit Card","Standard",600,132.55233633332
+556,2023-07-22,"Sports",10,50,"North","18-25","Credit Card","Standard",500,172.119089844637
+885,2023-07-22,"Electronics",10,50,"South","55+","UPI","Overnight",500,87.0211455738172
+571,2023-07-23,"Electronics",9,200,"East","46-55","Credit Card","Standard",1800,604.211802771315
+100,2023-07-25,"Clothing",8,150,"East","46-55","PayPal","Overnight",1200,278.464427869767
+294,2023-07-25,"Electronics",3,150,"East","18-25","PayPal","Overnight",450,104.66695273295
+738,2023-07-25,"Home & Kitchen",4,500,"East","18-25","Credit Card","Overnight",2000,522.91606310755
+229,2023-07-26,"Electronics",2,200,"North","26-35","UPI","Express",400,91.5739995054901
+244,2023-07-26,"Books",8,150,"East","46-55","Debit Card","Overnight",1200,265.582476686686
+545,2023-07-26,"Sports",6,150,"South","18-25","UPI","Overnight",900,140.056055271998
+847,2023-07-26,"Sports",4,50,"East","46-55","UPI","Standard",200,51.2597361020744
+87,2023-07-27,"Sports",4,500,"North","46-55","Credit Card","Overnight",2000,481.830276176333
+118,2023-07-27,"Home & Kitchen",6,200,"East","55+","PayPal","Overnight",1200,216.265314817429
+191,2023-07-27,"Electronics",2,300,"South","46-55","Debit Card","Standard",600,189.617502288893
+832,2023-07-27,"Electronics",10,50,"South","46-55","UPI","Overnight",500,92.0841464307159
+843,2023-07-27,"Sports",7,300,"West","55+","Debit Card","Express",2100,588.454815312289
+962,2023-07-27,"Books",4,150,"East","55+","Debit Card","Overnight",600,166.529229087755
+993,2023-07-27,"Clothing",5,300,"West","18-25","Credit Card","Standard",1500,357.962616090663
+875,2023-07-28,"Books",10,100,"South","46-55","Credit Card","Overnight",1000,184.379322500899
+920,2023-07-28,"Clothing",10,50,"North","36-45","Debit Card","Standard",500,153.687248937786
+536,2023-07-29,"Sports",5,200,"West","36-45","Debit Card","Overnight",1000,218.962156539783
+566,2023-07-29,"Clothing",9,500,"South","36-45","PayPal","Overnight",4500,1574.62787514087
+685,2023-07-29,"Clothing",8,200,"West","36-45","PayPal","Overnight",1600,457.611349672079
+337,2023-07-30,"Sports",9,150,"East","55+","Credit Card","Express",1350,389.302383663599
+986,2023-07-30,"Sports",4,500,"East","55+","UPI","Overnight",2000,322.990335058421
+998,2023-07-30,"Sports",5,150,"North","55+","UPI","Overnight",750,121.807166689541
+23,2023-07-31,"Electronics",5,300,"West","26-35","PayPal","Overnight",1500,242.504762182943
+175,2023-07-31,"Home & Kitchen",8,100,"North","18-25","Credit Card","Standard",800,261.219447404146
+314,2023-07-31,"Electronics",3,150,"South","55+","Credit Card","Overnight",450,82.2306227800436
+442,2023-07-31,"Sports",5,300,"West","46-55","Credit Card","Standard",1500,281.031083059497
+665,2023-07-31,"Home & Kitchen",9,150,"East","55+","PayPal","Overnight",1350,299.616755282041
+263,2023-08-01,"Electronics",4,200,"East","18-25","UPI","Overnight",800,187.196800932288
+470,2023-08-01,"Sports",7,150,"West","26-35","Debit Card","Overnight",1050,205.462675038725
+629,2023-08-01,"Clothing",8,150,"East","36-45","UPI","Express",1200,323.760739658028
+960,2023-08-01,"Clothing",2,100,"South","26-35","UPI","Express",200,31.0270931944251
+125,2023-08-02,"Books",10,150,"South","55+","Credit Card","Overnight",1500,401.056835451163
+265,2023-08-02,"Clothing",7,200,"East","55+","Credit Card","Overnight",1400,417.592848073691
+351,2023-08-02,"Electronics",6,50,"East","26-35","Credit Card","Express",300,73.354684417136
+508,2023-08-02,"Books",8,500,"East","26-35","UPI","Standard",4000,1378.45084350556
+726,2023-08-02,"Home & Kitchen",4,50,"North","18-25","PayPal","Overnight",200,57.6838321425021
+43,2023-08-03,"Clothing",3,100,"East","46-55","PayPal","Standard",300,66.5637213969603
+412,2023-08-03,"Home & Kitchen",10,50,"West","36-45","Debit Card","Express",500,116.741899726912
+607,2023-08-03,"Electronics",4,200,"East","46-55","UPI","Standard",800,265.54877333343
+419,2023-08-05,"Books",2,100,"West","55+","PayPal","Express",200,42.2459186147898
+871,2023-08-05,"Books",1,50,"West","46-55","Credit Card","Overnight",50,13.2740191998892
+406,2023-08-06,"Home & Kitchen",1,500,"South","46-55","PayPal","Overnight",500,113.761109742336
+719,2023-08-07,"Home & Kitchen",1,50,"East","18-25","UPI","Overnight",50,13.2435600273311
+67,2023-08-08,"Electronics",7,150,"North","18-25","UPI","Express",1050,252.701053877827
+255,2023-08-08,"Books",5,150,"West","55+","Debit Card","Express",750,246.819715888705
+262,2023-08-08,"Home & Kitchen",10,100,"West","26-35","UPI","Express",1000,269.953769957647
+64,2023-08-09,"Books",9,100,"East","18-25","Credit Card","Overnight",900,229.312165807933
+572,2023-08-10,"Books",10,100,"South","46-55","Credit Card","Standard",1000,219.872459536418
+515,2023-08-11,"Electronics",7,150,"North","55+","Debit Card","Overnight",1050,307.472144505009
+936,2023-08-11,"Home & Kitchen",8,150,"North","55+","Debit Card","Standard",1200,273.153866361827
+123,2023-08-12,"Clothing",9,300,"North","18-25","PayPal","Express",2700,655.069626308978
+451,2023-08-12,"Clothing",10,50,"South","46-55","PayPal","Express",500,111.746956640854
+774,2023-08-12,"Sports",5,500,"East","46-55","Credit Card","Overnight",2500,671.76176875364
+217,2023-08-13,"Books",6,200,"North","46-55","PayPal","Standard",1200,231.260343845934
+293,2023-08-13,"Home & Kitchen",7,100,"West","55+","PayPal","Overnight",700,136.400070250966
+691,2023-08-13,"Home & Kitchen",6,300,"West","55+","Credit Card","Standard",1800,473.25035023503
+857,2023-08-13,"Home & Kitchen",3,100,"East","36-45","UPI","Standard",300,81.7597434064373
+41,2023-08-14,"Books",5,100,"South","18-25","PayPal","Standard",500,130.739044584334
+239,2023-08-14,"Home & Kitchen",6,100,"North","26-35","UPI","Overnight",600,161.165725775063
+416,2023-08-14,"Electronics",4,300,"South","46-55","PayPal","Standard",1200,395.691949948668
+560,2023-08-14,"Books",1,50,"North","26-35","UPI","Standard",50,11.3709773798473
+867,2023-08-14,"Electronics",4,300,"East","46-55","Debit Card","Standard",1200,231.370387282222
+465,2023-08-15,"Books",9,300,"South","26-35","Credit Card","Overnight",2700,451.050178078003
+5,2023-08-16,"Sports",7,200,"North","46-55","Debit Card","Overnight",1400,348.564880006015
+57,2023-08-16,"Books",6,300,"West","55+","PayPal","Overnight",1800,282.048911042511
+387,2023-08-16,"Books",5,300,"East","55+","PayPal","Standard",1500,251.90035358537
+635,2023-08-16,"Sports",1,100,"South","55+","Credit Card","Express",100,30.6292550452054
+164,2023-08-17,"Home & Kitchen",1,300,"North","36-45","Debit Card","Express",300,96.8012197734788
+193,2023-08-17,"Sports",5,200,"East","55+","UPI","Express",1000,260.836239019409
+696,2023-08-17,"Books",5,500,"East","18-25","UPI","Express",2500,559.220935800113
+929,2023-08-17,"Clothing",8,500,"South","46-55","Credit Card","Overnight",4000,897.87020124495
+860,2023-08-18,"Books",6,50,"West","55+","Debit Card","Overnight",300,60.3500494686887
+349,2023-08-19,"Home & Kitchen",1,100,"South","26-35","Debit Card","Overnight",100,27.4675798602402
+453,2023-08-19,"Home & Kitchen",7,100,"West","36-45","Credit Card","Overnight",700,239.848667620681
+630,2023-08-20,"Electronics",5,100,"South","36-45","Credit Card","Overnight",500,92.9816825082526
+896,2023-08-20,"Electronics",4,50,"North","55+","Debit Card","Standard",200,46.7701531387866
+207,2023-08-21,"Sports",9,200,"North","55+","UPI","Standard",1800,362.351363645867
+503,2023-08-21,"Electronics",1,300,"South","36-45","PayPal","Standard",300,48.131888313219
+369,2023-08-22,"Books",4,200,"West","55+","UPI","Overnight",800,243.81169538945
+980,2023-08-22,"Electronics",6,150,"South","46-55","Credit Card","Standard",900,138.895446248353
+315,2023-08-23,"Clothing",10,300,"West","26-35","Debit Card","Standard",3000,510.266471793875
+375,2023-08-23,"Electronics",3,200,"South","18-25","Debit Card","Express",600,95.8211907371879
+601,2023-08-23,"Electronics",4,100,"West","36-45","Debit Card","Express",400,83.4762415662408
+355,2023-08-24,"Books",2,50,"West","55+","Credit Card","Standard",100,17.779018105939
+608,2023-08-24,"Sports",5,500,"South","36-45","UPI","Standard",2500,479.926338535734
+876,2023-08-24,"Sports",6,100,"East","36-45","UPI","Express",600,175.638293400407
+999,2023-08-24,"Clothing",2,300,"East","55+","PayPal","Express",600,141.843440439552
+495,2023-08-25,"Home & Kitchen",10,500,"West","46-55","UPI","Overnight",5000,1006.96556316689
+773,2023-08-25,"Books",4,300,"South","26-35","PayPal","Standard",1200,365.307965911925
+113,2023-08-26,"Home & Kitchen",1,150,"North","46-55","Debit Card","Standard",150,51.0231100372039
+402,2023-08-26,"Sports",2,200,"East","26-35","PayPal","Express",400,137.083984315395
+695,2023-08-26,"Electronics",5,200,"North","18-25","PayPal","Standard",1000,268.653869861737
+752,2023-08-26,"Books",2,200,"North","55+","PayPal","Standard",400,121.568263396621
+211,2023-08-27,"Sports",9,200,"South","36-45","Debit Card","Overnight",1800,363.815416423604
+482,2023-08-27,"Home & Kitchen",5,150,"South","36-45","UPI","Express",750,241.772956971545
+233,2023-08-28,"Electronics",4,100,"East","26-35","UPI","Express",400,64.1369436681271
+540,2023-08-28,"Clothing",2,50,"South","46-55","UPI","Overnight",100,19.9125615600497
+421,2023-08-29,"Books",3,50,"South","26-35","PayPal","Standard",150,39.5322176325135
+538,2023-08-29,"Home & Kitchen",3,500,"West","18-25","Credit Card","Express",1500,364.689176296815
+741,2023-08-29,"Home & Kitchen",1,150,"North","55+","UPI","Overnight",150,50.9839485213161
+814,2023-08-29,"Home & Kitchen",4,100,"East","26-35","Credit Card","Express",400,135.093497857451
+120,2023-08-30,"Sports",8,200,"West","18-25","Credit Card","Overnight",1600,368.991376459599
+590,2023-08-30,"Books",10,500,"North","26-35","Credit Card","Overnight",5000,1422.6694162935
+690,2023-08-30,"Sports",7,300,"West","36-45","PayPal","Overnight",2100,480.710863131098
+712,2023-08-30,"Electronics",2,50,"West","26-35","PayPal","Standard",100,21.2057344941422
+360,2023-08-31,"Electronics",6,50,"West","26-35","Debit Card","Overnight",300,46.945146471262
+448,2023-08-31,"Books",10,100,"South","18-25","UPI","Express",1000,268.251187540591
+467,2023-08-31,"Books",3,300,"South","46-55","Credit Card","Standard",900,224.628645605408
+836,2023-08-31,"Clothing",4,100,"South","18-25","UPI","Express",400,104.419418945909
+291,2023-09-01,"Electronics",4,100,"South","36-45","Debit Card","Overnight",400,124.799754712731
+645,2023-09-01,"Electronics",5,300,"North","46-55","Credit Card","Overnight",1500,343.628798425198
+897,2023-09-01,"Sports",5,300,"South","18-25","Credit Card","Overnight",1500,454.783528740518
+944,2023-09-01,"Books",10,300,"West","46-55","PayPal","Standard",3000,526.670126756653
+44,2023-09-02,"Sports",2,50,"South","36-45","Credit Card","Standard",100,23.870092635043
+647,2023-09-02,"Books",2,100,"South","36-45","Credit Card","Express",200,35.9370526764542
+653,2023-09-02,"Books",4,300,"North","46-55","Debit Card","Overnight",1200,400.12873923406
+88,2023-09-03,"Clothing",7,50,"East","18-25","Debit Card","Express",350,90.263257464394
+119,2023-09-03,"Clothing",5,200,"East","26-35","PayPal","Express",1000,167.501751706004
+864,2023-09-03,"Sports",10,300,"North","26-35","Credit Card","Overnight",3000,905.206885188818
+890,2023-09-03,"Books",1,300,"East","55+","UPI","Standard",300,47.8477426897734
+328,2023-09-04,"Sports",6,200,"North","26-35","Debit Card","Overnight",1200,180.64304061234
+841,2023-09-04,"Home & Kitchen",2,150,"South","46-55","Debit Card","Express",300,104.470393219963
+978,2023-09-04,"Clothing",8,500,"East","26-35","UPI","Overnight",4000,1263.4442107752
+68,2023-09-05,"Home & Kitchen",9,50,"North","55+","Credit Card","Express",450,120.850506783463
+105,2023-09-05,"Sports",4,100,"North","36-45","PayPal","Overnight",400,104.090927261859
+582,2023-09-05,"Sports",2,500,"East","36-45","Debit Card","Express",1000,342.433343362063
+758,2023-09-05,"Books",9,100,"East","46-55","Debit Card","Standard",900,297.720754807815
+497,2023-09-06,"Electronics",8,150,"West","18-25","PayPal","Standard",1200,409.620328992605
+240,2023-09-07,"Clothing",5,150,"North","26-35","Credit Card","Express",750,232.284517062362
+253,2023-09-07,"Home & Kitchen",4,100,"East","26-35","UPI","Express",400,114.990023858845
+434,2023-09-07,"Home & Kitchen",2,200,"North","18-25","UPI","Standard",400,124.076945446432
+975,2023-09-07,"Electronics",5,150,"East","18-25","Credit Card","Express",750,213.9639622299
+107,2023-09-08,"Electronics",5,200,"South","26-35","UPI","Overnight",1000,316.633325442672
+130,2023-09-09,"Home & Kitchen",9,150,"East","55+","Debit Card","Express",1350,377.870431866031
+213,2023-09-09,"Clothing",6,500,"North","46-55","PayPal","Overnight",3000,802.84140156582
+480,2023-09-09,"Books",2,100,"South","46-55","Credit Card","Standard",200,67.532397210598
+303,2023-09-10,"Electronics",3,150,"North","55+","UPI","Express",450,130.696528383996
+498,2023-09-10,"Sports",9,200,"West","46-55","Credit Card","Overnight",1800,435.169954039156
+783,2023-09-10,"Home & Kitchen",3,150,"South","46-55","Debit Card","Overnight",450,95.5704557918943
+884,2023-09-10,"Home & Kitchen",7,500,"South","46-55","Credit Card","Express",3500,625.024640583433
+932,2023-09-10,"Clothing",7,100,"West","26-35","Debit Card","Standard",700,204.551060101949
+134,2023-09-11,"Clothing",7,500,"East","36-45","UPI","Overnight",3500,984.631074825302
+473,2023-09-11,"Books",2,200,"West","55+","PayPal","Overnight",400,71.9713045656681
+881,2023-09-11,"Sports",1,100,"South","26-35","PayPal","Standard",100,20.3220916399732
+205,2023-09-12,"Home & Kitchen",2,300,"South","46-55","PayPal","Express",600,162.325784470886
+397,2023-09-12,"Clothing",6,50,"North","46-55","Debit Card","Standard",300,60.5899837519973
+734,2023-09-12,"Electronics",7,500,"West","36-45","PayPal","Overnight",3500,878.064500284381
+835,2023-09-12,"Home & Kitchen",7,150,"North","26-35","UPI","Express",1050,174.612652254291
+489,2023-09-13,"Books",1,200,"West","26-35","Debit Card","Standard",200,42.5156148336828
+502,2023-09-13,"Home & Kitchen",2,150,"East","55+","Credit Card","Express",300,72.2312887106091
+563,2023-09-13,"Sports",2,50,"West","18-25","PayPal","Express",100,18.6379538290203
+642,2023-09-13,"Books",8,300,"West","36-45","PayPal","Standard",2400,788.829074911773
+772,2023-09-13,"Home & Kitchen",10,300,"South","26-35","Credit Card","Standard",3000,864.961725147441
+185,2023-09-14,"Clothing",6,100,"North","26-35","Debit Card","Standard",600,195.358638027683
+374,2023-09-14,"Books",5,50,"West","55+","UPI","Standard",250,46.0504779359326
+430,2023-09-14,"Clothing",5,50,"South","26-35","Debit Card","Standard",250,75.8852848783135
+49,2023-09-15,"Clothing",9,300,"West","26-35","Debit Card","Overnight",2700,928.078335975297
+362,2023-09-15,"Books",10,50,"North","55+","Credit Card","Standard",500,116.765234596096
+26,2023-09-16,"Clothing",5,150,"North","36-45","PayPal","Express",750,215.887793409638
+192,2023-09-16,"Home & Kitchen",9,300,"East","26-35","UPI","Express",2700,838.52961353492
+588,2023-09-16,"Sports",4,100,"South","26-35","UPI","Overnight",400,106.04094626382
+714,2023-09-16,"Home & Kitchen",1,500,"West","26-35","Credit Card","Overnight",500,97.05967719201
+858,2023-09-16,"Electronics",4,150,"West","46-55","PayPal","Overnight",600,166.416560383514
+158,2023-09-18,"Books",4,100,"West","18-25","Debit Card","Express",400,62.8608346171677
+306,2023-09-18,"Electronics",4,100,"West","26-35","UPI","Standard",400,90.5149975791574
+824,2023-09-18,"Home & Kitchen",4,500,"East","18-25","UPI","Express",2000,638.525018841028
+46,2023-09-19,"Electronics",8,150,"North","26-35","Credit Card","Overnight",1200,330.994862224907
+116,2023-09-19,"Books",5,200,"East","55+","Debit Card","Express",1000,253.700974816456
+124,2023-09-19,"Books",10,300,"North","18-25","UPI","Overnight",3000,479.367259796709
+919,2023-09-19,"Home & Kitchen",4,200,"South","46-55","Debit Card","Express",800,153.500384166837
+940,2023-09-20,"Electronics",6,100,"West","46-55","UPI","Express",600,104.516206271946
+541,2023-09-21,"Clothing",10,200,"North","55+","PayPal","Overnight",2000,456.74703316763
+737,2023-09-21,"Sports",5,100,"South","46-55","UPI","Standard",500,114.507738128304
+803,2023-09-21,"Sports",8,50,"East","36-45","PayPal","Express",400,73.4088777936995
+62,2023-09-22,"Sports",4,200,"East","55+","Debit Card","Standard",800,279.758226796985
+316,2023-09-22,"Home & Kitchen",9,150,"East","55+","Credit Card","Express",1350,468.388873762451
+865,2023-09-22,"Clothing",2,50,"East","18-25","PayPal","Overnight",100,20.9794978098944
+426,2023-09-23,"Electronics",7,150,"North","18-25","UPI","Express",1050,257.171098238323
+544,2023-09-23,"Sports",7,50,"West","36-45","Credit Card","Standard",350,61.6787154693156
+898,2023-09-23,"Books",6,200,"North","26-35","UPI","Express",1200,401.803040709346
+261,2023-09-24,"Clothing",2,200,"South","46-55","UPI","Express",400,90.6050979532301
+431,2023-09-24,"Electronics",6,500,"East","26-35","Debit Card","Overnight",3000,559.011395042762
+684,2023-09-24,"Electronics",8,300,"East","26-35","UPI","Overnight",2400,672.105004638433
+135,2023-09-25,"Books",10,100,"East","36-45","PayPal","Standard",1000,197.566376719624
+275,2023-09-25,"Sports",5,300,"North","18-25","Credit Card","Overnight",1500,457.150490116328
+547,2023-09-25,"Sports",7,200,"South","18-25","UPI","Overnight",1400,439.575390145183
+587,2023-09-25,"Clothing",1,150,"West","36-45","Debit Card","Standard",150,41.4074574667029
+918,2023-09-25,"Home & Kitchen",1,300,"West","26-35","UPI","Overnight",300,48.8908957550302
+82,2023-09-26,"Clothing",7,100,"North","55+","PayPal","Express",700,212.532905023545
+179,2023-09-26,"Sports",2,500,"East","26-35","Debit Card","Express",1000,222.103048674762
+194,2023-09-26,"Clothing",8,50,"West","55+","Credit Card","Overnight",400,83.9173112623393
+833,2023-09-26,"Sports",9,150,"North","26-35","UPI","Express",1350,338.847346846014
+131,2023-09-28,"Clothing",8,500,"North","36-45","Credit Card","Standard",4000,1319.03397515416
+509,2023-09-28,"Sports",8,500,"West","55+","Credit Card","Overnight",4000,1262.46570404619
+861,2023-09-29,"Home & Kitchen",3,150,"North","36-45","Credit Card","Express",450,88.7295738165267
+339,2023-09-30,"Clothing",6,500,"South","18-25","Credit Card","Overnight",3000,676.39405396767
+569,2023-09-30,"Books",1,150,"East","18-25","Credit Card","Express",150,52.2203675634228
+882,2023-09-30,"Books",10,300,"North","36-45","UPI","Standard",3000,1035.25863289833
+237,2023-10-01,"Sports",7,300,"North","26-35","UPI","Express",2100,727.805683272891
+542,2023-10-02,"Clothing",8,150,"West","36-45","UPI","Standard",1200,344.582410231233
+576,2023-10-03,"Home & Kitchen",2,200,"South","55+","UPI","Standard",400,96.8254876881838
+679,2023-10-03,"Clothing",2,150,"West","46-55","UPI","Overnight",300,74.7807896789163
+877,2023-10-03,"Electronics",2,300,"North","55+","PayPal","Express",600,208.091039350256
+597,2023-10-04,"Books",6,50,"North","55+","Debit Card","Overnight",300,97.2985267080366
+710,2023-10-04,"Clothing",10,150,"South","18-25","PayPal","Express",1500,406.711435248144
+606,2023-10-05,"Electronics",3,500,"West","55+","PayPal","Express",1500,348.152190539986
+479,2023-10-06,"Clothing",1,100,"South","26-35","Credit Card","Overnight",100,24.8241147911176
+290,2023-10-07,"Home & Kitchen",3,150,"East","36-45","UPI","Overnight",450,125.191814415157
+604,2023-10-07,"Sports",10,50,"South","36-45","PayPal","Express",500,117.156602698378
+807,2023-10-07,"Clothing",7,100,"East","36-45","Debit Card","Overnight",700,228.555878521875
+443,2023-10-08,"Electronics",1,200,"East","18-25","UPI","Standard",200,68.3880468271673
+948,2023-10-08,"Sports",2,50,"North","36-45","Credit Card","Overnight",100,28.0785114504397
+433,2023-10-09,"Home & Kitchen",6,300,"South","18-25","Credit Card","Standard",1800,458.496108362451
+20,2023-10-10,"Clothing",1,150,"North","46-55","PayPal","Express",150,28.9736534329131
+284,2023-10-10,"Home & Kitchen",3,300,"South","18-25","Debit Card","Express",900,177.956058285199
+154,2023-10-11,"Electronics",5,200,"South","55+","Credit Card","Standard",1000,317.584574315697
+212,2023-10-11,"Books",2,100,"East","26-35","Credit Card","Overnight",200,42.680772813037
+659,2023-10-11,"Electronics",3,150,"West","46-55","Credit Card","Express",450,98.761099067051
+90,2023-10-12,"Home & Kitchen",8,100,"North","46-55","UPI","Standard",800,201.403341852128
+97,2023-10-12,"Electronics",7,200,"West","18-25","Credit Card","Standard",1400,235.589104872197
+718,2023-10-12,"Books",6,50,"East","18-25","UPI","Express",300,104.96608227957
+761,2023-10-12,"Electronics",1,200,"East","55+","Credit Card","Express",200,35.6702692341059
+121,2023-10-14,"Home & Kitchen",10,500,"North","36-45","Credit Card","Express",5000,898.753076558933
+167,2023-10-14,"Books",8,300,"West","26-35","Debit Card","Express",2400,788.78110550344
+286,2023-10-14,"Books",1,150,"North","18-25","Debit Card","Express",150,37.5919385463931
+365,2023-10-14,"Electronics",8,150,"South","46-55","Credit Card","Standard",1200,212.212566509843
+86,2023-10-15,"Books",4,500,"East","46-55","PayPal","Overnight",2000,341.532179154456
+649,2023-10-15,"Books",3,150,"East","46-55","PayPal","Express",450,120.672314038966
+296,2023-10-16,"Home & Kitchen",4,300,"North","26-35","PayPal","Overnight",1200,278.184871282429
+834,2023-10-16,"Clothing",7,150,"North","18-25","UPI","Express",1050,273.129455458838
+984,2023-10-16,"Clothing",9,150,"East","18-25","PayPal","Overnight",1350,394.495766465552
+631,2023-10-18,"Books",6,300,"South","55+","PayPal","Standard",1800,419.146657744423
+755,2023-10-18,"Sports",8,100,"North","18-25","Debit Card","Overnight",800,237.843991518021
+34,2023-10-19,"Sports",2,500,"West","26-35","Credit Card","Standard",1000,348.164593381807
+242,2023-10-19,"Sports",8,300,"West","46-55","Credit Card","Overnight",2400,367.041410431266
+264,2023-10-19,"Home & Kitchen",10,100,"West","46-55","Credit Card","Overnight",1000,257.712321076542
+298,2023-10-19,"Home & Kitchen",1,200,"West","55+","UPI","Standard",200,63.8600912131369
+736,2023-10-19,"Home & Kitchen",3,300,"North","26-35","Debit Card","Express",900,235.070465309545
+916,2023-10-19,"Sports",3,100,"West","26-35","UPI","Express",300,75.7373179402202
+759,2023-10-20,"Home & Kitchen",7,50,"South","26-35","Credit Card","Overnight",350,74.9770444491878
+808,2023-10-20,"Home & Kitchen",6,300,"North","36-45","UPI","Express",1800,294.838350489736
+855,2023-10-20,"Books",8,100,"South","18-25","PayPal","Standard",800,209.621003195643
+874,2023-10-20,"Clothing",8,500,"South","36-45","Debit Card","Overnight",4000,962.303060851991
+126,2023-10-21,"Books",8,300,"West","26-35","PayPal","Standard",2400,627.024418786168
+611,2023-10-22,"Clothing",10,500,"North","18-25","Debit Card","Overnight",5000,1204.34936555102
+831,2023-10-22,"Home & Kitchen",7,300,"North","36-45","UPI","Overnight",2100,618.556377436034
+905,2023-10-22,"Books",6,200,"East","26-35","PayPal","Overnight",1200,332.963353078812
+76,2023-10-23,"Sports",9,200,"East","18-25","UPI","Express",1800,567.175776958466
+689,2023-10-23,"Clothing",10,150,"East","55+","Debit Card","Standard",1500,340.585298789665
+850,2023-10-23,"Electronics",1,100,"North","36-45","Credit Card","Express",100,32.1227410435677
+18,2023-10-24,"Home & Kitchen",8,500,"West","46-55","Credit Card","Standard",4000,669.585514999926
+636,2023-10-24,"Electronics",5,50,"East","18-25","Credit Card","Overnight",250,63.8720639981329
+28,2023-10-25,"Home & Kitchen",10,200,"North","36-45","Credit Card","Standard",2000,625.748204626143
+80,2023-10-25,"Clothing",3,100,"North","46-55","Debit Card","Overnight",300,49.6122187189758
+720,2023-10-25,"Sports",5,100,"North","26-35","UPI","Standard",500,109.725679480471
+791,2023-10-25,"Sports",8,500,"South","36-45","Debit Card","Standard",4000,690.551157854497
+31,2023-10-26,"Sports",9,100,"North","36-45","Debit Card","Overnight",900,161.52156828437
+102,2023-10-26,"Home & Kitchen",6,100,"West","18-25","Debit Card","Express",600,116.880407184362
+117,2023-10-26,"Home & Kitchen",5,50,"South","18-25","UPI","Standard",250,55.974284093827
+762,2023-10-27,"Electronics",9,150,"South","46-55","Debit Card","Overnight",1350,385.123159952927
+763,2023-10-27,"Home & Kitchen",8,200,"North","55+","Debit Card","Express",1600,355.541767477989
+299,2023-10-28,"Electronics",7,300,"South","46-55","Debit Card","Standard",2100,458.814632613212
+459,2023-10-28,"Clothing",5,50,"West","36-45","Credit Card","Overnight",250,73.2885911362246
+488,2023-10-28,"Books",10,200,"East","18-25","Debit Card","Express",2000,374.175233859569
+716,2023-10-28,"Home & Kitchen",3,300,"West","18-25","UPI","Standard",900,229.003062215634
+931,2023-10-28,"Sports",7,150,"West","46-55","Debit Card","Overnight",1050,307.383747913409
+10,2023-10-30,"Home & Kitchen",6,200,"East","36-45","PayPal","Express",1200,267.099452577531
+776,2023-10-30,"Electronics",2,100,"South","36-45","Debit Card","Express",200,32.599284760654
+1000,2023-10-30,"Electronics",7,300,"East","36-45","Credit Card","Standard",2100,350.021066721529
+345,2023-10-31,"Home & Kitchen",2,500,"East","46-55","Credit Card","Overnight",1000,202.487967861816
+660,2023-10-31,"Sports",8,100,"South","46-55","Debit Card","Express",800,222.577150315046
+934,2023-11-02,"Clothing",6,200,"South","55+","Debit Card","Overnight",1200,288.742534182966
+277,2023-11-03,"Sports",10,200,"South","46-55","Debit Card","Express",2000,489.98322179541
+595,2023-11-03,"Clothing",10,150,"East","26-35","PayPal","Standard",1500,484.762415103614
+469,2023-11-04,"Electronics",7,500,"North","46-55","Credit Card","Standard",3500,1160.61033827718
+289,2023-11-05,"Home & Kitchen",5,500,"South","18-25","UPI","Express",2500,426.616001990624
+399,2023-11-05,"Books",10,300,"North","55+","Credit Card","Standard",3000,994.260112848133
+471,2023-11-05,"Books",1,300,"West","46-55","Debit Card","Express",300,47.1656996151432
+902,2023-11-05,"Sports",5,200,"East","46-55","PayPal","Standard",1000,230.693312687799
+997,2023-11-05,"Home & Kitchen",7,100,"East","46-55","PayPal","Express",700,244.918639920652
+223,2023-11-06,"Sports",3,150,"West","46-55","PayPal","Overnight",450,102.516935958993
+317,2023-11-06,"Electronics",6,500,"North","26-35","Credit Card","Overnight",3000,682.709780847654
+101,2023-11-07,"Clothing",5,500,"North","46-55","Credit Card","Standard",2500,694.180215708911
+692,2023-11-07,"Books",4,100,"North","36-45","Debit Card","Overnight",400,121.470879521221
+700,2023-11-07,"Books",10,150,"West","18-25","UPI","Overnight",1500,340.810383693315
+140,2023-11-08,"Books",8,150,"North","36-45","PayPal","Overnight",1200,325.937075223774
+202,2023-11-08,"Home & Kitchen",3,500,"East","18-25","Debit Card","Express",1500,379.306204919703
+450,2023-11-08,"Electronics",7,100,"West","36-45","Debit Card","Standard",700,134.957407345064
+534,2023-11-08,"Home & Kitchen",3,200,"North","18-25","PayPal","Overnight",600,182.804485810921
+892,2023-11-08,"Books",8,100,"North","46-55","PayPal","Standard",800,233.138593100011
+215,2023-11-09,"Clothing",6,500,"South","55+","PayPal","Express",3000,563.008731650188
+27,2023-11-10,"Electronics",10,100,"South","18-25","UPI","Overnight",1000,324.600163148716
+32,2023-11-10,"Books",9,200,"North","36-45","Debit Card","Overnight",1800,333.378545539454
+226,2023-11-10,"Sports",2,50,"North","36-45","UPI","Express",100,28.1178323132917
+478,2023-11-10,"Sports",1,100,"East","46-55","Credit Card","Express",100,33.012929353863
+809,2023-11-10,"Clothing",9,50,"North","46-55","UPI","Express",450,117.980151954107
+854,2023-11-10,"Electronics",7,300,"East","18-25","Debit Card","Standard",2100,648.814093424007
+266,2023-11-11,"Sports",7,300,"South","55+","PayPal","Standard",2100,336.989640695974
+567,2023-11-11,"Home & Kitchen",8,300,"South","26-35","PayPal","Overnight",2400,768.735941201448
+511,2023-11-12,"Books",10,150,"East","46-55","Debit Card","Express",1500,387.852567317896
+701,2023-11-12,"Electronics",1,50,"South","36-45","UPI","Overnight",50,8.043726189062
+146,2023-11-13,"Home & Kitchen",9,300,"North","18-25","Credit Card","Overnight",2700,451.328447414562
+348,2023-11-13,"Electronics",1,100,"West","36-45","Credit Card","Standard",100,34.5752501208335
+424,2023-11-13,"Sports",9,500,"West","46-55","PayPal","Standard",4500,1233.78214649856
+546,2023-11-13,"Books",10,500,"East","26-35","Credit Card","Standard",5000,1085.6534272898
+952,2023-11-13,"Books",6,150,"East","18-25","UPI","Overnight",900,209.761230605654
+585,2023-11-14,"Clothing",9,500,"East","36-45","Credit Card","Express",4500,781.926979240961
+613,2023-11-15,"Clothing",3,100,"South","46-55","Credit Card","Standard",300,81.0050692968071
+989,2023-11-16,"Books",1,100,"East","18-25","UPI","Express",100,16.7969840206206
+2,2023-11-17,"Home & Kitchen",4,150,"North","18-25","Credit Card","Standard",600,120.259108794853
+622,2023-11-17,"Books",3,200,"North","46-55","Credit Card","Standard",600,198.685379382223
+673,2023-11-17,"Electronics",4,150,"East","18-25","Credit Card","Express",600,114.287681132555
+735,2023-11-18,"Clothing",4,100,"South","55+","Debit Card","Overnight",400,72.7148297615349
+853,2023-11-19,"Home & Kitchen",1,300,"West","46-55","UPI","Overnight",300,73.048730310984
+35,2023-11-20,"Home & Kitchen",4,500,"East","46-55","PayPal","Overnight",2000,372.664866503328
+346,2023-11-20,"Books",10,200,"North","36-45","Debit Card","Overnight",2000,448.956326115876
+620,2023-11-20,"Home & Kitchen",5,200,"North","55+","UPI","Standard",1000,297.925400594249
+786,2023-11-20,"Sports",10,100,"South","18-25","Credit Card","Standard",1000,342.085605021566
+69,2023-11-21,"Books",2,50,"East","18-25","PayPal","Overnight",100,33.0152999889105
+73,2023-11-21,"Books",10,150,"East","46-55","PayPal","Express",1500,406.914777355269
+382,2023-11-21,"Sports",9,500,"North","26-35","UPI","Standard",4500,1532.03235792462
+354,2023-11-22,"Sports",2,100,"North","26-35","PayPal","Express",200,56.4195379707962
+12,2023-11-23,"Electronics",2,500,"West","46-55","UPI","Overnight",1000,289.949817955494
+246,2023-11-23,"Clothing",1,200,"East","55+","Credit Card","Overnight",200,68.2402108609676
+815,2023-11-23,"Books",6,500,"North","26-35","UPI","Standard",3000,775.880132988095
+956,2023-11-23,"Books",3,200,"West","18-25","Credit Card","Express",600,101.733420202509
+59,2023-11-25,"Electronics",9,500,"North","26-35","Debit Card","Express",4500,728.860531677492
+341,2023-11-26,"Home & Kitchen",2,150,"South","55+","Debit Card","Overnight",300,58.0812893249094
+364,2023-11-27,"Electronics",8,500,"West","18-25","Credit Card","Express",4000,1262.59930636734
+506,2023-11-27,"Home & Kitchen",1,150,"North","55+","Credit Card","Express",150,46.3746187160723
+407,2023-11-28,"Books",10,100,"North","18-25","PayPal","Overnight",1000,284.864973975345
+326,2023-12-01,"Books",9,500,"North","55+","UPI","Overnight",4500,1479.51564879622
+437,2023-12-01,"Sports",6,300,"East","55+","PayPal","Express",1800,339.40262010321
+895,2023-12-02,"Electronics",10,500,"East","55+","Credit Card","Overnight",5000,765.175440348685
+91,2023-12-03,"Sports",5,150,"West","36-45","Credit Card","Standard",750,162.799427169375
+112,2023-12-03,"Home & Kitchen",3,100,"North","36-45","Debit Card","Express",300,73.4171640174463
+170,2023-12-03,"Electronics",7,500,"East","36-45","UPI","Overnight",3500,587.13737949729
+438,2023-12-03,"Sports",10,50,"East","26-35","Debit Card","Standard",500,145.447550527751
+624,2023-12-03,"Books",9,500,"East","55+","PayPal","Standard",4500,811.525731557049
+209,2023-12-04,"Books",4,500,"East","36-45","Debit Card","Overnight",2000,530.213815905154
+85,2023-12-05,"Sports",9,100,"East","36-45","Credit Card","Overnight",900,156.024632994086
+425,2023-12-05,"Home & Kitchen",1,50,"North","26-35","Credit Card","Express",50,13.8739692722447
+810,2023-12-05,"Books",6,150,"East","55+","PayPal","Overnight",900,249.310228480026
+926,2023-12-05,"Electronics",5,500,"South","55+","Credit Card","Express",2500,551.518232678063
+129,2023-12-06,"Clothing",10,500,"East","18-25","Debit Card","Overnight",5000,1615.45891710557
+924,2023-12-06,"Clothing",4,200,"North","55+","UPI","Standard",800,153.659378290176
+93,2023-12-07,"Clothing",2,50,"North","36-45","Credit Card","Standard",100,34.3146220175549
+456,2023-12-07,"Sports",3,50,"North","36-45","Debit Card","Express",150,48.0658135609701
+531,2023-12-07,"Electronics",8,300,"South","18-25","UPI","Express",2400,515.227935835719
+581,2023-12-07,"Home & Kitchen",2,50,"South","55+","Credit Card","Express",100,15.6348361773416
+760,2023-12-08,"Books",9,100,"North","55+","Debit Card","Express",900,145.417675632052
+848,2023-12-09,"Clothing",2,300,"East","55+","Credit Card","Overnight",600,170.306374635547
+900,2023-12-09,"Sports",6,500,"South","36-45","PayPal","Express",3000,799.884662311524
+707,2023-12-10,"Electronics",4,50,"North","46-55","UPI","Overnight",200,34.9476732313633
+883,2023-12-10,"Sports",5,300,"North","26-35","PayPal","Standard",1500,497.79443743173
+361,2023-12-11,"Home & Kitchen",9,100,"North","26-35","Debit Card","Standard",900,246.930040139705
+258,2023-12-12,"Sports",7,100,"North","18-25","Debit Card","Overnight",700,127.233599447645
+347,2023-12-12,"Electronics",1,150,"South","46-55","Credit Card","Express",150,36.5168871288188
+564,2023-12-12,"Home & Kitchen",7,300,"West","46-55","Credit Card","Overnight",2100,397.568421866745
+287,2023-12-13,"Electronics",9,100,"East","26-35","Credit Card","Standard",900,148.933378960937
+797,2023-12-13,"Books",3,300,"East","46-55","Debit Card","Standard",900,170.77432801947
+813,2023-12-13,"Sports",8,100,"South","46-55","Credit Card","Overnight",800,221.308032423258
+24,2023-12-14,"Sports",5,200,"North","26-35","PayPal","Overnight",1000,259.441236592829
+38,2023-12-14,"Home & Kitchen",3,150,"South","55+","UPI","Standard",450,96.4530881959945
+144,2023-12-14,"Sports",4,150,"East","18-25","Credit Card","Express",600,176.845409497619
+295,2023-12-14,"Sports",9,200,"East","18-25","UPI","Standard",1800,390.092903897166
+637,2023-12-14,"Sports",10,50,"East","26-35","UPI","Express",500,112.574704014696
+889,2023-12-14,"Electronics",2,100,"West","18-25","Credit Card","Overnight",200,69.5444673765451
+979,2023-12-14,"Home & Kitchen",3,100,"North","36-45","UPI","Standard",300,86.9347238447517
+462,2023-12-15,"Clothing",3,200,"West","46-55","Debit Card","Overnight",600,156.284049544483
+964,2023-12-15,"Sports",2,50,"North","18-25","PayPal","Express",100,18.8164923805743
+122,2023-12-16,"Home & Kitchen",5,200,"South","26-35","UPI","Express",1000,170.025451481342
+698,2023-12-16,"Home & Kitchen",6,300,"South","18-25","PayPal","Express",1800,552.461469322443
+946,2023-12-16,"Sports",7,50,"West","46-55","Debit Card","Express",350,79.7138267941773
+199,2023-12-17,"Electronics",1,50,"West","18-25","UPI","Standard",50,17.179013278801
+666,2023-12-17,"Books",3,150,"North","55+","PayPal","Express",450,82.2555184364319
+300,2023-12-18,"Home & Kitchen",5,50,"South","26-35","UPI","Overnight",250,41.2888397462666
+523,2023-12-18,"Books",5,200,"West","46-55","UPI","Overnight",1000,347.214828478172
+638,2023-12-18,"Sports",1,150,"North","36-45","UPI","Express",150,52.3853156366386
+744,2023-12-18,"Home & Kitchen",9,300,"West","46-55","PayPal","Express",2700,408.925131848082
+106,2023-12-19,"Clothing",2,100,"East","18-25","UPI","Overnight",200,68.9119028951973
+641,2023-12-19,"Electronics",5,300,"West","26-35","Debit Card","Overnight",1500,459.66320426669
+677,2023-12-19,"Home & Kitchen",4,150,"North","36-45","Credit Card","Overnight",600,92.0521116815507
+939,2023-12-19,"Sports",5,200,"West","46-55","UPI","Overnight",1000,263.492213468999
+334,2023-12-20,"Sports",1,100,"West","46-55","PayPal","Express",100,17.8052526107058
+618,2023-12-20,"Sports",8,50,"West","46-55","Credit Card","Overnight",400,134.106712043285
+654,2023-12-20,"Clothing",1,100,"South","55+","PayPal","Express",100,30.9445549314842
+42,2023-12-21,"Clothing",1,150,"South","36-45","UPI","Overnight",150,26.3732175249606
+516,2023-12-21,"Home & Kitchen",10,50,"East","55+","Credit Card","Overnight",500,137.110968586057
+13,2023-12-22,"Electronics",5,50,"East","18-25","PayPal","Express",250,45.1437864569016
+174,2023-12-22,"Books",5,300,"South","26-35","Debit Card","Overnight",1500,349.267755984329
+288,2023-12-22,"Clothing",4,100,"West","55+","PayPal","Standard",400,129.065794702619
+878,2023-12-22,"Sports",6,300,"South","46-55","UPI","Standard",1800,288.485820489004
+66,2023-12-23,"Sports",5,200,"North","36-45","PayPal","Overnight",1000,193.300019949675
+400,2023-12-23,"Home & Kitchen",3,150,"West","46-55","PayPal","Standard",450,86.0223918850534
+50,2023-12-24,"Electronics",10,200,"East","46-55","Debit Card","Standard",2000,641.096487641335
+232,2023-12-24,"Books",10,300,"South","18-25","UPI","Overnight",3000,760.773287387565
+301,2023-12-24,"Home & Kitchen",3,500,"North","26-35","Credit Card","Overnight",1500,330.316120153293
+422,2023-12-24,"Clothing",6,100,"East","46-55","UPI","Standard",600,195.62149208039
+429,2023-12-24,"Sports",2,150,"South","46-55","Credit Card","Overnight",300,57.1988255996257
+530,2023-12-25,"Home & Kitchen",7,100,"North","46-55","Credit Card","Express",700,106.315449103713
+25,2023-12-26,"Books",7,300,"West","46-55","PayPal","Standard",2100,642.310331384651
+75,2023-12-26,"Sports",9,200,"South","18-25","PayPal","Overnight",1800,571.523257568478
+667,2023-12-26,"Sports",9,100,"West","46-55","Credit Card","Standard",900,154.977153679356
+260,2023-12-27,"Clothing",9,50,"South","55+","PayPal","Express",450,76.7978661297821
+650,2023-12-27,"Home & Kitchen",4,100,"East","26-35","PayPal","Express",400,71.5686333365738
+771,2023-12-27,"Home & Kitchen",10,100,"North","46-55","Debit Card","Standard",1000,230.081479204819
+257,2023-12-28,"Sports",4,50,"South","36-45","Debit Card","Standard",200,63.134770905599
+816,2023-12-28,"Books",4,200,"North","26-35","UPI","Express",800,138.927884027362
+617,2023-12-29,"Sports",10,500,"West","36-45","UPI","Express",5000,997.114071622491
+686,2023-12-29,"Books",5,200,"West","46-55","PayPal","Standard",1000,277.502611605451
+688,2023-12-29,"Electronics",1,200,"North","36-45","Debit Card","Overnight",200,69.3943717703223
+270,2023-12-30,"Sports",4,200,"North","36-45","PayPal","Overnight",800,222.145446650684
+305,2023-12-30,"Sports",4,50,"West","55+","Credit Card","Express",200,61.9574016146362
+446,2023-12-30,"Electronics",3,50,"South","26-35","PayPal","Overnight",150,32.138404736761
+432,2023-12-31,"Electronics",5,500,"South","46-55","UPI","Overnight",2500,739.888872485608

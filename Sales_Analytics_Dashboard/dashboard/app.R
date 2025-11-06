@@ -5,6 +5,7 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 library(lubridate)
+library(DT)
 
 # Load data
 sales_data <- readRDS("../data/sales_data_processed.rds")
@@ -151,7 +152,21 @@ ui <- dashboardPage(
       # Tab 5: Raw Data
       tabItem(tabName = "data",
               h2("Raw Data View"),
-              dataTableOutput("data_table")
+              fluidRow(
+                box(width = 12,
+                    div(style = "display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;",
+                        tags$div(
+                          downloadButton("download_filtered", "Download Filtered CSV", class = "btn-primary"),
+                          style = ""
+                        ),
+                        tags$div(
+                          tags$small("Exports the currently filtered data (Category/Region) to CSV."),
+                          style = "margin-left:15px;"
+                        )
+                    ),
+                    DTOutput("data_table")
+                )
+              )
       )
     )
   )
@@ -327,10 +342,22 @@ server <- function(input, output) {
   })
   
   # Data Table
-  output$data_table <- renderDataTable({
-    filtered_data()
+  output$data_table <- renderDT({
+    datatable(filtered_data(), options = list(pageLength = 25, scrollX = TRUE))
   })
+
+  # Download filtered CSV
+  output$download_filtered <- downloadHandler(
+    filename = function() {
+      ts <- format(Sys.time(), "%Y%m%d_%H%M%S")
+      paste0("filtered_sales_", ts, ".csv")
+    },
+    content = function(file) {
+      data <- filtered_data()
+      utils::write.csv(data, file, row.names = FALSE)
+    }
+  )
 }
 
-# Run the app
-shinyApp(ui, server)
+# Run the app on a fixed port (8000). If running via python_bridge this is respected.
+runApp(list(ui = ui, server = server), port = 8000, launch.browser = interactive())

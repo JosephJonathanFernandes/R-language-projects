@@ -1,0 +1,2 @@
+# Python dependencies for embedding R
+rpy2>=3.5,<4

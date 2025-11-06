@@ -5,6 +5,7 @@ This repository hosts one or more R projects (apps, analyses, scripts) in a sing
 ## Structure
 
 - `Sales_Analytics_Dashboard/` – Example project with a Shiny app, scripts, and reports.
+	- After running its pipeline, you can open the generated EDA report directly: [Open EDA Report](Sales_Analytics_Dashboard/reports/EDA.html)
 - Additional projects can live as sibling folders at the repo root, each owning their own `README.md` and sub-structure.
 
 ## Quick start

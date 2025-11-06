@@ -1,0 +1,112 @@
+---
+title: "Exploratory Data Analysis - Sales Analytics"
+author: "Auto-generated"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(tidyr)
+
+# Resolve project root (knit_root_dir should set this for us; fall back to getwd())
+root <- getwd()
+processed_rds <- file.path(root, "data", "sales_data_processed.rds")
+raw_csv <- file.path(root, "data", "sales_data.csv")
+
+if (!file.exists(processed_rds)) {
+  # Try to (re)generate processed data minimally
+  message("Processed RDS missing. Attempting to regenerate...")
+  scripts_dir <- file.path(root, "scripts")
+  if (file.exists(raw_csv) && file.exists(file.path(scripts_dir, "data_exploration.R"))) {
+    source(file.path(scripts_dir, "data_exploration.R"))
+  } else if (file.exists(file.path(scripts_dir, "create_dataset.R")) && file.exists(file.path(scripts_dir, "data_exploration.R"))) {
+    source(file.path(scripts_dir, "create_dataset.R"))
+    source(file.path(scripts_dir, "data_exploration.R"))
+  }
+}
+
+if (!file.exists(processed_rds)) stop("Processed data not found and could not be generated. Please run scripts/run_all.R first.")
+sales_data <- readRDS(processed_rds)
+sales_data$month <- floor_date(as.Date(sales_data$order_date), "month")
+```
+
+# Overview
+This document provides an in-depth exploratory analysis of the synthetic e-commerce dataset used in the Sales Analytics Dashboard.
+
+## Structure
+Dimensions: `r nrow(sales_data)` rows x `r ncol(sales_data)` columns.
+
+### Glimpse
+```{r}
+dplyr::glimpse(sales_data)
+```
+
+# Missing Data
+```{r}
+missing <- colSums(is.na(sales_data))
+missing
+ggplot(data.frame(var = names(missing), val = as.numeric(missing)), aes(var, val)) +
+  geom_col(fill = '#A23B72') + theme_minimal() + labs(title='Missing Values by Column', x='Column', y='Count')
+```
+
+# Distribution of Numeric Features
+```{r}
+num_cols <- c('quantity','unit_price','sales_amount','profit')
+sales_long <- tidyr::pivot_longer(sales_data, num_cols)
+ggplot(sales_long, aes(value)) + facet_wrap(~name, scales='free') + geom_histogram(bins=30, fill='#2E86AB') + theme_minimal()
+```
+
+# Monthly Trends
+```{r}
+monthly <- sales_data %>% group_by(month) %>% summarise(Sales=sum(sales_amount), Profit=sum(profit), .groups='drop')
+ggplot(monthly, aes(month, Sales)) + geom_line(color='#2E86AB') + geom_point(color='#2E86AB') + theme_minimal() + labs(title='Monthly Sales Trend')
+```
+
+# Category Performance
+```{r}
+cat_perf <- sales_data %>% group_by(product_category) %>% summarise(Sales=sum(sales_amount), Profit=sum(profit), Orders=n(), .groups='drop')
+ggplot(cat_perf, aes(reorder(product_category, Sales), Sales, fill=product_category)) + geom_col() + coord_flip() + theme_minimal() + labs(title='Sales by Category', x='Category') + guides(fill='none')
+```
+
+# Regional Distribution
+```{r}
+region_perf <- sales_data %>% group_by(region) %>% summarise(Sales=sum(sales_amount), Profit=sum(profit), Orders=n(), .groups='drop')
+ggplot(region_perf, aes(region, Sales, fill=region)) + geom_col() + theme_minimal() + labs(title='Sales by Region', x='Region') + guides(fill='none')
+```
+
+# Profit vs Sales Scatter
+```{r}
+ggplot(cat_perf, aes(Sales, Profit, size=Orders, color=product_category)) + geom_point(alpha=0.7) + theme_minimal() + scale_color_brewer(palette='Dark2') + labs(title='Profit vs Sales by Category')
+```
+
+# Age Group Contribution
+```{r}
+age_perf <- sales_data %>% group_by(customer_age_group) %>% summarise(Sales=sum(sales_amount), .groups='drop')
+ggplot(age_perf, aes(customer_age_group, Sales, fill=customer_age_group)) + geom_col() + theme_minimal() + labs(title='Sales by Age Group', x='Age Group') + guides(fill='none')
+```
+
+# Payment Method Breakdown
+```{r}
+pay_method <- sales_data %>% group_by(payment_method) %>% summarise(Count=n(), .groups='drop')
+ggplot(pay_method, aes(payment_method, Count, fill=payment_method)) + geom_col() + theme_minimal() + labs(title='Payment Method Frequency', x='Payment Method') + guides(fill='none')
+```
+
+# Correlation Matrix
+```{r}
+num_data <- sales_data[, num_cols]
+cor_mat <- round(cor(num_data), 2)
+cor_mat
+```
+
+# Session Info
+```{r}
+sessionInfo()
+```

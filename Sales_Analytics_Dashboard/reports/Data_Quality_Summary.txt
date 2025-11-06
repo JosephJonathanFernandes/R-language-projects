@@ -1,0 +1,70 @@
+DATA QUALITY SUMMARY
+=====================
+Generated: 2025-11-07 01:10:48.026256
+
+Missing Values:
+----------------
+          order_id         order_date   product_category           quantity 
+                 0                  0                  0                  0 
+        unit_price             region customer_age_group     payment_method 
+                 0                  0                  0                  0 
+   shipping_method       sales_amount             profit 
+                 0                  0                  0 
+
+Numeric Summary:
+----------------
+    quantity        unit_price     sales_amount      profit        
+ Min.   : 1.000   Min.   : 50.0   Min.   :  50   Min.   :   7.755  
+ 1st Qu.: 3.000   1st Qu.:100.0   1st Qu.: 400   1st Qu.:  91.135  
+ Median : 5.000   Median :150.0   Median : 900   Median : 211.832  
+ Mean   : 5.602   Mean   :211.4   Mean   :1204   Mean   : 301.538  
+ 3rd Qu.: 8.000   3rd Qu.:300.0   3rd Qu.:1600   3rd Qu.: 395.864  
+ Max.   :10.000   Max.   :500.0   Max.   :5000   Max.   :1615.459  
+
+Outlier Counts (IQR rule):
+-------------------------
+    quantity   unit_price sales_amount       profit 
+           0            0           67           61 
+
+Duplicate order_id count:
+-------------------------
+[1] 0
+
+Category Distributions:
+----------------------
+
+-- product_category --
+            Var1 Freq
+1 Home & Kitchen  211
+2         Sports  204
+3       Clothing  197
+4          Books  194
+5    Electronics  194
+
+-- region --
+   Var1 Freq
+1 North  265
+2  East  252
+3 South  242
+4  West  241
+
+-- customer_age_group --
+   Var1 Freq
+1 26-35  218
+2 18-25  205
+3 46-55  205
+4 36-45  194
+5   55+  178
+
+-- payment_method --
+         Var1 Freq
+1 Credit Card  280
+2      PayPal  244
+3         UPI  241
+4  Debit Card  235
+
+-- shipping_method --
+       Var1 Freq
+1 Overnight  347
+2   Express  338
+3  Standard  315

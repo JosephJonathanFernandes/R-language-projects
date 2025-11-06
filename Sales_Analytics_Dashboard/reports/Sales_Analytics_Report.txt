@@ -1,0 +1,115 @@
+
+================================================================================
+                    SALES ANALYTICS REPORT - 2023
+================================================================================
+Generated on: 2025-11-07
+
+EXECUTIVE SUMMARY
+================================================================================
+Total Sales:          $1,204,500
+Total Profit:         $301,537.7
+Total Orders:         1000
+Average Order Value:  $1,204.5
+Profit Margin:        25%
+
+KEY PERFORMANCE INDICATORS
+================================================================================
+Top Performing Category:    Sports
+Top Performing Region:      North
+Best Age Group:             26-35
+Most Popular Payment:       Credit Card
+
+SALES BY CATEGORY
+================================================================================
+
+Sports:
+  Sales:        $262,950
+  Profit:       $65,028.88
+  Orders:       204
+  Avg Order:    $1,288.97
+Clothing:
+  Sales:        $254,050
+  Profit:       $64,519.03
+  Orders:       197
+  Avg Order:    $1,289.59
+Books:
+  Sales:        $237,600
+  Profit:       $59,305.43
+  Orders:       194
+  Avg Order:    $1,224.74
+Home & Kitchen:
+  Sales:        $234,800
+  Profit:       $59,443.99
+  Orders:       211
+  Avg Order:    $1,112.8
+Electronics:
+  Sales:        $215,100
+  Profit:       $53,240.4
+  Orders:       194
+  Avg Order:    $1,108.76
+
+SALES BY REGION
+================================================================================
+
+North Region:
+  Sales:        $320,750
+  Profit:       $82,425.34
+  Orders:       265
+  Avg Order:    $1,210.38
+East Region:
+  Sales:        $312,500
+  Profit:       $78,116.36
+  Orders:       252
+  Avg Order:    $1,240.08
+West Region:
+  Sales:        $293,200
+  Profit:       $72,431.99
+  Orders:       241
+  Avg Order:    $1,216.6
+South Region:
+  Sales:        $278,050
+  Profit:       $68,564.04
+  Orders:       242
+  Avg Order:    $1,148.97
+
+MONTHLY TRENDS
+================================================================================
+Month          Sales              Profit            Orders
+--------       --------           --------          --------
+January      $ 89300     $ 22684      82
+February      $ 71950     $ 18612      72
+March      $119400     $ 28860      83
+April      $113050     $ 29328      98
+May      $101100     $ 25841      81
+June      $125550     $ 31578     104
+July      $114000     $ 28229      91
+August      $ 86750     $ 20910      82
+September      $106800     $ 28657      89
+October      $ 88750     $ 21015      73
+November      $ 90600     $ 22697      60
+December      $ 97250     $ 23126      85
+
+
+RECOMMENDATIONS
+================================================================================
+
+1. CATEGORY FOCUS
+   - Focus marketing efforts on Sports which is the top performer
+   - Develop strategies to boost underperforming categories
+
+2. REGIONAL EXPANSION
+   - Strengthen presence in North region (highest sales)
+   - Analyze factors contributing to regional performance gaps
+
+3. SEASONAL TRENDS
+   - Identify peak sales periods and plan inventory accordingly
+   - Plan promotional campaigns during low seasons
+
+4. CUSTOMER ENGAGEMENT
+   - Target high-value age groups with premium offerings
+   - Optimize payment and shipping methods based on customer preference
+
+================================================================================
+End of Report
+================================================================================
+
