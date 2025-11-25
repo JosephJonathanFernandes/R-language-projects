@@ -178,6 +178,25 @@ Or from RStudio: Open `app.R` and click **Run App**.
 
 ---
 
+## 📁 Project Structure
+
+```
+mnist_R/
+├── app.R                   # Main Shiny application
+├── config.R                # Configuration and settings
+├── install_packages.R      # Dependency installer
+├── README.md               # This file
+├── CONTRIBUTING.md         # Contribution guidelines
+├── CHANGELOG.md            # Version history
+├── STRUCTURE.md            # Detailed architecture docs
+├── LICENSE                 # MIT License
+└── .gitignore              # Git ignore rules
+```
+
+For detailed architecture documentation, see [STRUCTURE.md](STRUCTURE.md).
+
+---
+
 ## ⚙️ Technical Details
 
 ### Model Architectures
