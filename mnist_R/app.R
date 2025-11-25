@@ -1,41 +1,84 @@
 ###############################################################
-# COMPLETE MNIST SUPER SHINY APP
+# MNIST SUPER SHINY APP
+# 
+# @title MNIST Digit Recognition - Interactive Machine Learning App
+# @description A comprehensive Shiny application for exploring MNIST dataset
+#              with multiple ML models, visualizations, and interactive features
+# @version 1.0.0
+# @author Joseph
+# @license MIT
+# @date 2025-11-26
+#
+# Features:
+#   - MNIST dataset viewer (60,000 images)
+#   - 4 ML models: CNN, kNN, SVM, Random Forest
+#   - Dimensionality reduction: PCA, UMAP, t-SNE
+#   - Interactive drawing canvas
+#   - Model comparison and evaluation
+#   - CNN filter and activation visualization
+#
+# Repository: https://github.com/yourusername/mnist_R
 ###############################################################
 
-library(shiny)
-library(shinyCanvas)
-library(keras)
-library(ggplot2)
-library(umap)
-library(Rtsne)
-library(class)
-library(randomForest)
-library(e1071)
+# Load required libraries
+library(shiny)         # Web application framework
+library(shinyCanvas)   # Interactive drawing canvas
+library(keras)         # Deep learning (CNN)
+library(ggplot2)       # Data visualization
+library(umap)          # UMAP dimensionality reduction
+library(Rtsne)         # t-SNE dimensionality reduction
+library(class)         # k-Nearest Neighbors
+library(randomForest)  # Random Forest classifier
+library(e1071)         # Support Vector Machine
+
+# Load configuration (optional - uncomment if using config.R)
+# source("config.R")
 
 ###############################################################
-# Load MNIST
+# DATA LOADING AND PREPROCESSING
 ###############################################################
+
+#' Load MNIST Dataset
+#' 
+#' Loads the MNIST handwritten digit dataset from Keras
+#' Dataset contains 60,000 training images and 10,000 test images
+#' Each image is 28x28 pixels in grayscale
 mnist <- dataset_mnist()
 
+# Normalize pixel values to [0, 1] range
 x_train <- mnist$train$x / 255
 y_train_raw <- mnist$train$y
 x_test  <- mnist$test$x / 255
 y_test_raw <- mnist$test$y
 
-# Flatten for PCA/UMAP/kNN/SVM/RF
+# Flatten images for traditional ML models (kNN, SVM, RF)
+# Converts 28x28 matrices to 784-dimensional vectors
 x_train_flat <- matrix(x_train, nrow = 60000, ncol = 28*28)
 x_test_flat  <- matrix(x_test,  nrow = 10000, ncol = 28*28)
 
+# One-hot encode labels for neural network
+# Converts integer labels (0-9) to binary class matrices
 y_train <- to_categorical(y_train_raw, 10)
 y_test  <- to_categorical(y_test_raw, 10)
 
-# CNN reshape
+# Reshape for CNN (add channel dimension)
+# CNN requires 4D array: (samples, height, width, channels)
 x_train_cnn <- array_reshape(x_train, c(60000, 28, 28, 1))
 x_test_cnn  <- array_reshape(x_test,  c(10000, 28, 28, 1))
 
 ###############################################################
-# UI
+# USER INTERFACE
 ###############################################################
+
+#' Shiny UI Definition
+#' 
+#' Creates a multi-tab navigation interface with:
+#' - MNIST Viewer: Browse training images
+#' - Train Models: Train CNN, kNN, SVM, Random Forest
+#' - Visualization: PCA, UMAP, t-SNE dimensionality reduction
+#' - Prediction: Predict MNIST images and drawn digits
+#' - Model Comparison: Evaluate and compare model accuracies
+#' - CNN Insights: Visualize filters and activations
 ui <- navbarPage("MNIST SUPER APP",
 
   ########## TAB 1 — VIEW IMAGES ##########
