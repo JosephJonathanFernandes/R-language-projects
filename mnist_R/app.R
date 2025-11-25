@@ -188,8 +188,20 @@ ui <- navbarPage("MNIST SUPER APP",
   )
 )
 ###############################################################
-# SERVER
+# SERVER LOGIC
 ###############################################################
+
+#' Shiny Server Function
+#' 
+#' @param input Shiny input object containing user inputs
+#' @param output Shiny output object for rendering UI elements
+#' @param session Shiny session object for app state
+#' 
+#' Server handles:
+#' - Data visualization and rendering
+#' - Model training and management
+#' - Predictions and evaluations
+#' - Interactive canvas processing
 server <- function(input, output, session) {
 
   ########## VIEWER ##########

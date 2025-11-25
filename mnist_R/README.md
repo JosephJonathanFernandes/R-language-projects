@@ -1,6 +1,30 @@
 # 🎯 MNIST Shiny Super-App
 
-A comprehensive R Shiny application for exploring and experimenting with the MNIST handwritten digit dataset. This app includes visualization, multiple machine learning models, dimensionality reduction techniques, and an interactive drawing canvas.
+[![R Version](https://img.shields.io/badge/R-%E2%89%A5%204.0-blue.svg)](https://www.r-project.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Shiny](https://img.shields.io/badge/Shiny-1.7+-brightgreen.svg)](https://shiny.rstudio.com/)
+[![Keras](https://img.shields.io/badge/Keras-TensorFlow-red.svg)](https://keras.io/)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](https://github.com/yourusername/mnist_R)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> **A comprehensive R Shiny application for exploring and experimenting with the MNIST handwritten digit dataset featuring multiple ML models, interactive visualizations, and deep learning explainability.**
+
+![MNIST Demo](https://via.placeholder.com/800x400?text=MNIST+Shiny+Super-App+Demo)
+
+---
+
+## 📋 Table of Contents
+
+- [Features](#-features)
+- [Demo](#-demo)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Usage Guide](#-usage-guide)
+- [Architecture](#-architecture)
+- [Configuration](#-configuration)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
